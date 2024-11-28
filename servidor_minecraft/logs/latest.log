@@ -466,3 +466,182 @@
 [23:42:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
 [23:42:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
 [23:43:15] [Server thread/INFO]: [PapiRicoJoker: Gave 5 [Steak] to PapiRicoJoker]
+[23:43:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:43:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:43:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:43:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:43:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:43:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:43:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:43:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:44:10] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> MONOOOOOOO
+[23:44:16] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> SEXOOOOOOOOOO
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:44:47] [Server thread/INFO]: PapiRicoJoker lost connection: Disconnected
+[23:44:47] [Server thread/INFO]: PapiRicoJoker left the game
+[23:44:47] [Server thread/INFO]: [voicechat] Disconnecting client PapiRicoJoker
+[23:44:49] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:57003] logged in with entity id 2555 at (111.31411669003236, 63.0, -71.92161315725237)
+[23:44:49] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[23:44:49] [Server thread/INFO]: Loading config from file...
+[23:44:49] [Server thread/INFO]: PapiRicoJoker joined the game
+[23:44:49] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[23:44:49] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:44:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[23:44:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:44:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:44:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:45:18] [Server thread/INFO]: loivex was slain by Zombified Piglin
+[23:45:20] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of loivex accepted server config.
+[23:45:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:45:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:45:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:45:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:45:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:45:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:45:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:45:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:46:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:46:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:46:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:46:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:46:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:46:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:46:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:46:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:46:55] [Server thread/INFO]: [Not Secure] <loivex> jokeee
+[23:47:01] [Server thread/INFO]: [Not Secure] <loivex> JOKEEEEEEEEEEEEEEER
+[23:47:01] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> q we
+[23:47:04] [Server thread/INFO]: [Not Secure] <loivex> hola
+[23:47:05] [Server thread/INFO]: [Not Secure] <loivex> xd
+[23:47:07] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> hola xdd
+[23:47:15] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> MOOOOOOOOOOONOOOOOOOO MORISTE JAJAAJJAJAJ
+[23:47:25] [Server thread/INFO]: PapiRicoJoker lost connection: Disconnected
+[23:47:25] [Server thread/INFO]: PapiRicoJoker left the game
+[23:47:25] [Server thread/INFO]: [voicechat] Disconnecting client PapiRicoJoker
+[23:47:27] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:55575] logged in with entity id 3198 at (114.32188221255493, 63.0, -75.77200256538761)
+[23:47:27] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[23:47:27] [Server thread/INFO]: Loading config from file...
+[23:47:27] [Server thread/INFO]: PapiRicoJoker joined the game
+[23:47:27] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[23:47:27] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:47:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[23:47:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:47:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:47:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:47:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:47:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:47:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:47:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:47:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:47:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:47:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:47:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:47:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:47:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:47:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:47:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:47:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:47:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:48:12] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> tas en el nether?
+[23:48:17] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> no se te escucha
+[23:48:20] [Server thread/INFO]: [Not Secure] <loivex> si
+[23:48:25] [Server thread/WARN]: loivex moved too quickly! -0.6993970312175328,-10.490796109027976,2.208651003199158
+[23:48:29] [Server thread/INFO]: [PapiRicoJoker: Set the time to 1000]
+[23:48:55] [Server thread/INFO]: loivex was blown up by Ghast
+[23:48:57] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of loivex accepted server config.
+[23:49:01] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> xd no se te escucha otra vez
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:49:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:49:48] [Server thread/INFO]: Rafiux_Z[/127.83.209.6:59213] logged in with entity id 3856 at (127.5, 72.0, -59.5)
+[23:49:48] [Server thread/INFO]: Syncing config to Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4)
+[23:49:48] [Server thread/INFO]: Loading config from file...
+[23:49:48] [Server thread/INFO]: Rafiux_Z joined the game
+[23:49:50] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Rafiux_Z accepted server config.
+[23:49:50] [Server thread/INFO]: [voicechat] Received secret request of Rafiux_Z (18)
+[23:49:50] [Server thread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[23:49:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[23:49:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[23:49:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[23:50:17] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> no se te escucha chango
+[23:50:24] [Server thread/INFO]: PapiRicoJoker lost connection: Disconnected
+[23:50:24] [Server thread/INFO]: PapiRicoJoker left the game
+[23:50:24] [Server thread/INFO]: [voicechat] Disconnecting client PapiRicoJoker
+[23:50:26] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:51975] logged in with entity id 3997 at (110.98336113695346, 63.0, -72.97234923447901)
+[23:50:26] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[23:50:26] [Server thread/INFO]: Loading config from file...
+[23:50:26] [Server thread/INFO]: PapiRicoJoker joined the game
+[23:50:26] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[23:50:26] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:50:26] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[23:50:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:50:29] [Server thread/INFO]: [Not Secure] <loivex> YA SE NO ME LO TIENES QUE REPETIR CACHO DE MIERDA
+[23:50:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:50:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:50:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[23:50:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[23:50:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[23:50:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[23:50:36] [Server thread/INFO]: Player literal{Rafiux_Z} chose Origin: moborigins:evoker, for layer: origins:origin
+[23:50:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:50:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:50:43] [Server thread/INFO]: Player literal{Rafiux_Z} chose Origin: origins-classes:warrior, for layer: origins-classes:class
+[23:50:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:50:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:50:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:50:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:50:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:50:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:50:46] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> xddddd
+[23:51:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[23:51:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:51:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:51:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:51:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:51:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:51:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:51:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[23:51:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[23:51:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[23:51:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[23:51:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[23:51:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[23:51:54] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> server chafa good
+[23:52:02] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> son vanilla
+[23:52:17] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> el otro no funcionaba el backpacked colors
+[23:52:43] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> esq no tengo
+[23:52:47] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> soy pirata :(
+[23:53:24] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> alvv
+[23:53:34] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> el enderman
+[23:53:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:53:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:53:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:53:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:53:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[23:53:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[23:53:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[23:53:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:53:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:53:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:53:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:53:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[23:53:44] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> pera q me lo ponga
