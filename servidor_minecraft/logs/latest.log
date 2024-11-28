@@ -1,0 +1,468 @@
+[23:33:12] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
+[23:33:12] [main/INFO]: Loading 148 mods:
+	- antique_atlas 2.10.0+1.20
+	- betterdungeons 1.20-Fabric-4.0.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterendisland 1.20-Fabric-2.0.6
+	- betterfortresses 1.20-Fabric-2.0.6
+	- bettermineshafts 1.20-Fabric-4.0.4
+	- betterstrongholds 1.20-Fabric-4.0.3
+	- bountyhunt 1.3.1-1.20.1
+	   |-- com_electronwill_night-config_json 3.6.0
+	   \-- sgui 1.2.2+1.20
+	- c2me 0.2.0+alpha.11.13
+	   |-- c2me-base 0.2.0+alpha.11.13
+	   |-- c2me-client-uncapvd 0.2.0+alpha.11.13
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.11.13
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.11.13
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.11.13
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.11.13
+	   |-- c2me-notickvd 0.2.0+alpha.11.13
+	   |-- c2me-opts-allocs 0.2.0+alpha.11.13
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.11.13
+	   |-- c2me-opts-chunkio 0.2.0+alpha.11.13
+	   |-- c2me-opts-math 0.2.0+alpha.11.13
+	   |-- c2me-opts-scheduling 0.2.0+alpha.11.13
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.11.13
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.11.13
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.11.13
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.11.13
+	   |-- c2me-server-utils 0.2.0+alpha.11.13
+	   |-- c2me-threading-chunkio 0.2.0+alpha.11.13
+	   |-- c2me-threading-lighting 0.2.0+alpha.11.13
+	   |-- c2me-threading-worldgen 0.2.0+alpha.11.13
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
+	- cardinal-components 5.2.2
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-chunk 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-item 5.2.2
+	   |-- cardinal-components-level 5.2.2
+	   |-- cardinal-components-scoreboard 5.2.2
+	   \-- cardinal-components-world 5.2.2
+	- cavedust 3.0.0
+	   \-- kirin 1.15.6+1.20.1
+	- cerbons_api 1.1.0
+	- charmofundying 6.5.0+1.20.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- chime 1.5.0
+	- chunky 1.3.146
+	- cicada 0.9.1+1.20.1
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- collective 7.87
+	- creativecore 2.12.22
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- cristellib 1.1.5
+	   \-- blue_endless_jankson 1.2.3
+	- croptopia 3.0.3
+	- do_a_barrel_roll 3.6.1+1.20.1
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   \-- mixinsquared 0.1.1
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- epherolib 1.2.0
+	- explorify 1.6.2
+	- extraorigins 1.20-8
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- forgeconfigapiport 8.0.1
+	- immersive_armors 1.6.1+1.20.1
+	- immersive_melodies 0.3.0+1.20.1
+	- jade 11.12.0+fabric
+	- java 17
+	- jei 15.20.0.105
+	- minecraft 1.20.1
+	- moborigins 1.11.1
+	- moonlight 1.20-2.13.32
+	- mr_lukis_grandcapitals 1.1.1
+	- mysticsbiomes 3.4.3
+	   \-- terraform-wood-api-v1 7.0.1
+	- origins 1.10.0
+	   |-- apoli 2.9.0
+	   |    |-- additionalentityattributes 1.3.0+1.20.0
+	   |    |-- calio 1.11.0
+	   |    \-- playerabilitylib 1.8.0
+	   \-- reach-entity-attributes 2.4.0
+	- origins-classes 1.7.0
+	- pehkui 3.8.3+1.14.4-1.21
+	   \-- kanos_config 0.4.1+1.14.4-1.19.4
+	- puzzleslib 8.1.25
+	   \-- puzzlesaccessapi 8.0.7
+	- smarterfarmers 1.20-2.1.0
+	- sound_physics_remastered 1.20.1-1.4.5
+	- spark 1.10.53
+	- supplementaries 1.20-3.1.9
+	   \-- mixinsquared 0.1.1
+	- surveyor 0.6.25+1.20
+	   \-- folk_sisby_kaleido-config 0.3.1+1.3.2
+	- t_and_t 1.12
+	- terrablender 3.0.1.7
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- travelersbackpack 9.1.18
+	- trinkets 3.7.2
+	- villagernames 8.1
+	- voicechat 1.20.1-2.5.26
+	   \-- fabric-key-binding-api-v1 1.0.36+fb8d95da82
+	- yungsapi 1.20-Fabric-4.0.6
+	   \-- org_javassist_javassist 3.29.2-GA
+	- yungsbridges 1.20-Fabric-4.0.3
+[23:33:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/svr-MX2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:33:13] [main/INFO]: Compatibility level set to JAVA_17
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[23:33:13] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[23:33:13] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[23:33:13] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[23:33:13] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[23:33:13] [main/WARN]: Reference map 'CerbonsAPI-Fabric-1.20.1-fabric-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:33:14] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[23:33:14] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
+[23:33:14] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[23:33:14] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[23:33:14] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[23:33:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[23:33:14] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[23:33:14] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[23:33:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:33:23] [main/INFO]: Apoli 2.9.0 has initialized. Ready to power up your game!
+[23:33:23] [main/INFO]: Reflections took 47 ms to scan 1 urls, producing 1 keys and 3 values
+[23:33:23] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[23:33:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:23] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[23:33:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:33:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:23] [main/INFO]: BountyHunt is initializing!
+[23:33:23] [main/INFO]: Loaded config file.
+[23:33:23] [main/INFO]: Files up to date
+[23:33:23] [main/INFO]: Loaded BountyHunt files.
+[23:33:23] [main/INFO]: Registered commands.
+[23:33:23] [main/INFO]: BountyHunt has been initialized!
+[23:33:23] [main/INFO]: Loading Collective version 7.87.
+[23:33:23] [main/INFO]: Creating default config file: croptopia_v3.conf
+[23:33:23] [Cicada thread 0/INFO]: [do_a_barrel_roll] Available on Modrinth!
+[23:33:23] [Cicada thread 0/INFO]: [do_a_barrel_roll] Also Curseforge, but yknow...
+[23:33:24] [main/INFO]: Constructing common components for easyanvils:main
+[23:33:24] [main/INFO]: Constructing common components for easymagic:main
+[23:33:24] [main/INFO]: Mob Origins version 1.11.1 is loaded!
+[23:33:24] [main/INFO]: mystic's biomes ~ registering biomes
+[23:33:24] [main/INFO]: mystic's biomes ~ registering blocks
+[23:33:24] [main/ERROR]: No data fixer registered for butterfly_nest
+[23:33:24] [main/INFO]: mystic's biomes ~ registering block entities
+[23:33:24] [main/ERROR]: No data fixer registered for strawberry_cow
+[23:33:24] [main/ERROR]: No data fixer registered for vanilla_cow
+[23:33:24] [main/ERROR]: No data fixer registered for chocolate_cow
+[23:33:24] [main/ERROR]: No data fixer registered for rainbow_chicken
+[23:33:24] [main/ERROR]: No data fixer registered for red_panda
+[23:33:24] [main/ERROR]: No data fixer registered for sea_otter
+[23:33:24] [main/ERROR]: No data fixer registered for butterfly
+[23:33:24] [main/ERROR]: No data fixer registered for rainbow_egg
+[23:33:24] [main/INFO]: mystic's biomes ~ registering animals & critters
+[23:33:24] [main/INFO]: mystic's biomes ~ registering items
+[23:33:24] [main/INFO]: mystic's biomes ~ registering features
+[23:33:24] [main/INFO]: mystic's biomes ~ registering configured features
+[23:33:24] [main/INFO]: mystic's biomes ~ registering placed features
+[23:33:24] [main/INFO]: mystic's biomes ~ registering poi types
+[23:33:24] [main/INFO]: mystic's biomes ~ registering sounds
+[23:33:24] [main/INFO]: mystic's biomes ~ registering creative tab
+[23:33:24] [main/INFO]: Origins 1.10.0 is initializing. Have fun!
+[23:33:24] [main/INFO]: Constructing common components for puzzleslib:main
+[23:33:24] [main/INFO]: Loaded config supplementaries-common.json
+[23:33:25] [main/INFO]: [Surveyor] is not a map mod
+[23:33:25] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23:33:25] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[23:33:25] [main/INFO]: Registered region mysticsbiomes:overworld_provider to index 1 for type OVERWORLD
+[23:33:25] [main/ERROR]: No data fixer registered for 
+[23:33:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[23:33:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[23:33:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[23:33:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[23:33:25] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[23:33:25] [main/INFO]: [voicechat] Compatibility version 18
+[23:33:25] [main/INFO]: [voicechat] Loading plugins
+[23:33:25] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[23:33:25] [main/INFO]: [voicechat] Initializing plugins
+[23:33:25] [main/INFO]: Initializing Simple Voice Chat integration
+[23:33:25] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[23:33:25] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[23:33:25] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[23:33:25] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[23:33:25] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:25] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:33:25] [main/INFO]: Initialized block sets in 10ms
+[23:33:25] [main/ERROR]: No data fixer registered for dispenser_minecart
+[23:33:25] [main/ERROR]: No data fixer registered for falling_urn
+[23:33:25] [main/ERROR]: No data fixer registered for falling_ash
+[23:33:25] [main/ERROR]: No data fixer registered for falling_sack
+[23:33:25] [main/ERROR]: No data fixer registered for brick_projectile
+[23:33:25] [main/ERROR]: No data fixer registered for slimeball_projectile
+[23:33:25] [main/ERROR]: No data fixer registered for bomb
+[23:33:25] [main/ERROR]: No data fixer registered for cannonball
+[23:33:25] [main/ERROR]: No data fixer registered for rope_arrow
+[23:33:25] [main/ERROR]: No data fixer registered for slingshot_projectile
+[23:33:26] [main/INFO]: Loaded config smarterfarmers-common.json
+[23:33:26] [main/INFO]: Initialized color sets in 30ms
+[23:33:26] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 0, 12, 2, 0] ms
+[23:33:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:33:26] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 51 ms
+[23:33:27] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[23:33:27] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[23:33:28] [main/INFO]: Loaded 7 recipes
+[23:33:28] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[23:33:28] [main/INFO]: Loaded 2121 advancements
+[23:33:28] [main/INFO]: Finished loading powers from data files. Registry contains 256 powers.
+[23:33:28] [main/INFO]: Finished loading origins from data files. Registry contains 40 origins.
+[23:33:28] [main/INFO]: Trying to read layer file: origins-classes:class
+[23:33:28] [main/INFO]: Trying to read layer file: origins:origin
+[23:33:28] [main/INFO]: Trying to read layer file: origins:origin
+[23:33:28] [main/INFO]: Trying to read layer file: origins:origin
+[23:33:28] [main/INFO]: Finished loading origin layers from data files. Read 2 layers.
+[23:33:28] [main/INFO]: Loaded 27 flute songs
+[23:33:28] [main/INFO]: Loaded 0 global power sets.
+[23:33:29] [main/INFO]: Applied 7 data villager trades
+[23:33:29] [main/INFO]: Finished additional setup in 0 ms
+[23:33:30] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[23:33:30] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[23:33:30] [main/INFO]: Applied 438 biome modifications to 72 of 72 new biomes in 20.04 ms
+[23:33:30] [Server thread/INFO]: Loading server config for easyanvils
+[23:33:30] [Thread-5/INFO]: Reloading server config for easyanvils
+[23:33:30] [Server thread/INFO]: Loading server config for easymagic
+[23:33:30] [Thread-5/INFO]: Reloading server config for easyanvils
+[23:33:30] [Server thread/INFO]: Starting background profiler...
+[23:33:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:33:30] [Server thread/INFO]: Loading properties
+[23:33:30] [Server thread/INFO]: Default game type: SURVIVAL
+[23:33:30] [Server thread/INFO]: Generating keypair
+[23:33:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:33:30] [Server thread/INFO]: Using epoll channel type
+[23:33:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:33:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:33:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:33:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:33:31] [Server thread/INFO]: Preparing level "world"
+[23:33:31] [Server thread/INFO]: Enforcing safe world random access
+[23:33:31] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
+[23:33:31] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
+[23:33:31] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
+[23:33:31] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
+[23:33:34] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
+[23:33:34] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
+[23:33:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:33:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:33:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:33:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:33:36] [Server thread/INFO]: Preparing spawn area: 0%
+[23:33:36] [Worker-Main-3/INFO]: Preparing spawn area: 12%
+[23:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[23:33:37] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[23:33:38] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[23:33:38] [Worker-Main-3/INFO]: Preparing spawn area: 44%
+[23:33:39] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[23:33:39] [Server thread/INFO]: Time elapsed: 5612 ms
+[23:33:39] [Server thread/INFO]: Done (8.926s)! For help, type "help"
+[23:33:40] [Server thread/INFO]: Start loading plugin from Jade
+[23:33:40] [Server thread/INFO]: Start loading plugin from Jade
+[23:33:40] [Server thread/INFO]: Start loading plugin from Jade
+[23:33:40] [Server thread/INFO]: Start loading plugin from Supplementaries
+[23:33:40] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_faucet_test_level
+[23:33:40] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_faucet_test_level
+[23:33:47] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[23:33:47] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'brand-advised.gl.at.ply.gg:1217'
+[23:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7389ms or 147 ticks behind
+[23:33:47] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1217
+[23:34:33] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:39583] logged in with entity id 200 at (112.43941237045523, 63.0, -72.34569222319732)
+[23:34:33] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[23:34:33] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_projectile_test_level
+[23:34:33] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_projectile_test_level
+[23:34:37] [Server thread/INFO]: Loading config from file...
+[23:34:37] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[23:34:37] [Server thread/INFO]: PapiRicoJoker joined the game
+[23:34:38] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[23:34:38] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4937ms or 98 ticks behind
+[23:34:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[23:34:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:34:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:34:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:35:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:35:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:35:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:35:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:35:32] [Server thread/INFO]: PapiRicoJoker lost connection: Disconnected
+[23:35:32] [Server thread/INFO]: PapiRicoJoker left the game
+[23:35:32] [Server thread/INFO]: [voicechat] Disconnecting client PapiRicoJoker
+[23:35:35] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:36273] logged in with entity id 326 at (111.73018926731154, 63.0, -71.74225051962226)
+[23:35:35] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[23:35:35] [Server thread/INFO]: Loading config from file...
+[23:35:35] [Server thread/INFO]: PapiRicoJoker joined the game
+[23:35:35] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[23:35:35] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:35:35] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[23:35:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:35:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:35:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:35:49] [Server thread/INFO]: loivex[/127.24.144.248:34161] logged in with entity id 375 at (125.5, 70.0, -60.5)
+[23:35:49] [Server thread/INFO]: Syncing config to loivex (2828ddef-f9c4-383e-bd8f-e776ae272566)
+[23:35:49] [Server thread/INFO]: Loading config from file...
+[23:35:49] [Server thread/INFO]: loivex joined the game
+[23:35:55] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of loivex accepted server config.
+[23:35:55] [Server thread/INFO]: [voicechat] Received secret request of loivex (18)
+[23:35:55] [Server thread/INFO]: [voicechat] Sent secret to loivex
+[23:35:55] [Server thread/INFO]: [PapiRicoJoker: Teleported PapiRicoJoker to loivex]
+[23:36:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:36:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:36:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:36:20] [Server thread/INFO]: [PapiRicoJoker: Set the time to 1000]
+[23:36:34] [Server thread/INFO]: Player literal{loivex} chose Origin: moborigins:strider, for layer: origins:origin
+[23:36:53] [Server thread/INFO]: loivex has made the advancement [We Need to Go Deeper]
+[23:36:53] [Server thread/INFO]: Player literal{loivex} chose Origin: origins-classes:merchant, for layer: origins-classes:class
+[23:36:53] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of loivex accepted server config.
+[23:37:05] [Server thread/WARN]: PapiRicoJoker moved too quickly! -1.0758887708920923,1.0013359791121417,-10.106812770578017
+[23:37:05] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> aaaaaa
+[23:37:05] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> aaaaa
+[23:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13513ms or 270 ticks behind
+[23:37:12] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> pq vergas estas en el nether
+[23:37:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:37:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:37:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:37:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:38:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:38:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:38:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:38:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:38:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:38:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:38:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:38:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:38:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:38:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:38:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:38:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:38:46] [Server thread/INFO]: PapiRicoJoker lost connection: Disconnected
+[23:38:46] [Server thread/INFO]: PapiRicoJoker left the game
+[23:38:46] [Server thread/INFO]: [voicechat] Disconnecting client PapiRicoJoker
+[23:39:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:39:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:39:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:39:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:39:36] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:41321] logged in with entity id 1530 at (115.49762819624289, 63.0, -68.20238723017837)
+[23:39:36] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[23:39:36] [Server thread/INFO]: Loading config from file...
+[23:39:36] [Server thread/INFO]: PapiRicoJoker joined the game
+[23:39:36] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[23:39:36] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:39:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[23:39:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:39:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:39:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:40:06] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> pq vergas estas en el nether puta
+[23:40:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:40:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:40:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[23:40:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[23:40:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:40:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:40:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:40:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:40:35] [Server thread/INFO]: PapiRicoJoker lost connection: Disconnected
+[23:40:35] [Server thread/INFO]: PapiRicoJoker left the game
+[23:40:35] [Server thread/INFO]: [voicechat] Disconnecting client PapiRicoJoker
+[23:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:40:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[23:42:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[23:42:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[23:42:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[23:42:31] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:52259] logged in with entity id 1947 at (113.26006120674518, 63.0, -71.37101436170474)
+[23:42:31] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[23:42:31] [Server thread/INFO]: Loading config from file...
+[23:42:31] [Server thread/INFO]: PapiRicoJoker joined the game
+[23:42:32] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[23:42:32] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[23:42:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[23:42:32] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[23:42:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:42:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[23:42:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[23:43:15] [Server thread/INFO]: [PapiRicoJoker: Gave 5 [Steak] to PapiRicoJoker]
