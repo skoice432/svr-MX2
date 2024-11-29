@@ -18,7 +18,8 @@
       "minecraft:beach": "2024-11-29 00:01:18 +0000",
       "minecraft:river": "2024-11-29 00:00:37 +0000",
       "minecraft:forest": "2024-11-28 23:49:49 +0000",
-      "minecraft:old_growth_birch_forest": "2024-11-29 00:00:42 +0000"
+      "minecraft:old_growth_birch_forest": "2024-11-29 00:00:42 +0000",
+      "minecraft:plains": "2024-11-29 00:45:51 +0000"
     },
     "done": false
   },
@@ -513,7 +514,8 @@
       "cooked_beef": "2024-11-29 00:17:12 +0000",
       "beef": "2024-11-29 00:16:04 +0000",
       "porkchop": "2024-11-29 00:14:04 +0000",
-      "mutton": "2024-11-28 23:59:18 +0000"
+      "mutton": "2024-11-28 23:59:18 +0000",
+      "bread": "2024-11-29 00:47:03 +0000"
     },
     "done": false
   },
@@ -1126,6 +1128,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-29 00:22:48 +0000",
+      "minecraft:creeper": "2024-11-29 00:49:37 +0000",
       "minecraft:zombie": "2024-11-29 00:23:10 +0000"
     },
     "done": false
@@ -1196,9 +1199,123 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 00:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 00:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-11-29 00:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-11-29 00:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:mysticsbiomes/root": {
     "criteria": {
       "autumnal_grove": "2024-11-29 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-11-29 00:47:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 00:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 00:49:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-11-29 00:47:01 +0000"
     },
     "done": true
   },
