@@ -286,6 +286,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-29 01:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-11-29 01:03:46 +0000"
@@ -301,6 +313,18 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2024-11-29 00:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-29 02:00:29 +0000"
     },
     "done": true
   },
@@ -376,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -385,6 +415,12 @@
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2024-11-29 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-29 01:50:05 +0000"
     },
     "done": true
   },
@@ -436,6 +472,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-11-29 01:48:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -475,6 +523,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2024-11-29 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2024-11-29 02:02:57 +0000"
     },
     "done": true
   },
@@ -532,9 +586,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-11-29 01:45:22 +0000"
     },
     "done": true
   },
@@ -550,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/corn_seed": {
     "criteria": {
       "has_corn": "2024-11-29 01:04:01 +0000"
@@ -559,6 +631,12 @@
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2024-11-29 01:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
     },
     "done": true
   },
@@ -607,6 +685,12 @@
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2024-11-29 01:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-11-29 02:02:50 +0000"
     },
     "done": true
   },
@@ -748,9 +832,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-11-29 00:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-11-29 01:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
     },
     "done": true
   },
@@ -769,6 +871,18 @@
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2024-11-29 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-11-29 01:51:30 +0000"
     },
     "done": true
   },
@@ -907,9 +1021,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-29 01:21:49 +0000",
-      "minecraft:piglin": "2024-11-29 00:12:51 +0000"
+      "minecraft:piglin": "2024-11-29 00:12:51 +0000",
+      "minecraft:zombie": "2024-11-29 02:00:20 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
@@ -944,6 +1065,12 @@
   "croptopia:recipes/misc/peach_sapling": {
     "criteria": {
       "has_peach": "2024-11-29 00:36:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2024-11-29 02:02:57 +0000"
     },
     "done": true
   },
@@ -1145,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
@@ -1178,6 +1311,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-29 00:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
     },
     "done": true
   },
@@ -1253,6 +1392,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2024-11-29 00:37:08 +0000"
@@ -1283,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-29 00:04:04 +0000"
@@ -1301,9 +1458,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2024-11-29 01:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2024-11-29 01:54:18 +0000"
     },
     "done": true
   },
@@ -1337,6 +1506,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-29 01:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-29 00:44:03 +0000"
@@ -1352,6 +1533,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-11-29 02:02:50 +0000"
     },
     "done": true
   },
@@ -1445,6 +1632,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-11-29 02:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -1454,6 +1647,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-11-29 01:45:22 +0000"
     },
     "done": true
   },
@@ -1469,9 +1668,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-11-29 00:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
     },
     "done": true
   },
@@ -1529,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -1580,6 +1797,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-11-29 01:45:22 +0000"
     },
     "done": true
   },
@@ -1637,6 +1860,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2024-11-29 00:45:19 +0000"
@@ -1652,6 +1881,18 @@
   "croptopia:recipes/misc/blackberry_seed": {
     "criteria": {
       "has_blackberry": "2024-11-29 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
     },
     "done": true
   },
@@ -1732,6 +1973,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-11-29 02:02:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2024-11-29 00:39:45 +0000"
@@ -1741,6 +1988,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-11-29 00:39:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
     },
     "done": true
   },
@@ -1870,6 +2123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-29 00:44:03 +0000"
@@ -1879,6 +2138,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
     },
     "done": true
   },
@@ -1978,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
@@ -2044,6 +2315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
@@ -2074,9 +2351,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2024-11-29 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-29 01:50:05 +0000"
     },
     "done": true
   },
@@ -2200,6 +2489,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-11-29 00:04:04 +0000"
@@ -2233,6 +2528,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-11-29 02:02:50 +0000"
     },
     "done": true
   },
@@ -2352,6 +2653,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-29 01:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-11-29 00:25:55 +0000"
@@ -2367,6 +2674,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-29 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-11-29 01:49:01 +0000"
     },
     "done": true
   },
@@ -2526,6 +2839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-11-29 00:37:08 +0000"
@@ -2535,6 +2854,12 @@
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2024-11-29 00:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-11-29 01:48:49 +0000"
     },
     "done": true
   },

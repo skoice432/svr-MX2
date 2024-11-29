@@ -511,6 +511,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-11-29 01:55:10 +0000",
       "cooked_beef": "2024-11-29 00:17:12 +0000",
       "beef": "2024-11-29 00:16:04 +0000",
       "porkchop": "2024-11-29 00:14:04 +0000",
@@ -518,7 +519,8 @@
       "mutton": "2024-11-28 23:59:18 +0000",
       "bread": "2024-11-29 00:47:03 +0000",
       "rotten_flesh": "2024-11-29 01:21:25 +0000",
-      "glow_berries": "2024-11-29 01:18:19 +0000"
+      "glow_berries": "2024-11-29 01:18:19 +0000",
+      "cooked_chicken": "2024-11-29 01:49:50 +0000"
     },
     "done": false
   },
@@ -1316,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-11-29 01:49:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-11-29 01:08:55 +0000"
@@ -1415,6 +1423,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-11-29 01:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-29 01:49:50 +0000"
     },
     "done": true
   },
@@ -1541,6 +1555,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-11-29 01:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-11-29 01:51:21 +0000"
     },
     "done": true
   },
@@ -1796,6 +1816,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-11-29 01:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:11:29 +0000"
@@ -1964,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-29 01:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 01:10:19 +0000"
@@ -1973,6 +2005,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-11-29 01:24:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-11-29 01:47:36 +0000"
     },
     "done": true
   },
@@ -2024,6 +2062,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-11-29 01:45:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2024-11-29 01:15:03 +0000"
@@ -2063,6 +2107,12 @@
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-29 01:45:49 +0000"
     },
     "done": true
   },
