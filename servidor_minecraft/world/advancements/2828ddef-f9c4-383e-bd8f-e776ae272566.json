@@ -1211,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-29 01:41:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/peach_jam": {
     "criteria": {
       "has_peach": "2024-11-29 00:36:55 +0000"
