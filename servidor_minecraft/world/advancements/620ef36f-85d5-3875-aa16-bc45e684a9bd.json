@@ -1006,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-29 02:37:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/corn_bread": {
     "criteria": {
       "has_corn": "2024-11-29 00:59:22 +0000"
@@ -1144,6 +1150,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-11-29 02:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-11-29 01:17:40 +0000"
@@ -1194,6 +1206,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-11-29 02:43:31 +0000",
       "minecraft:skeleton": "2024-11-29 00:20:01 +0000",
       "minecraft:spider": "2024-11-29 00:03:33 +0000",
       "minecraft:creeper": "2024-11-29 00:22:46 +0000",
@@ -1451,6 +1464,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-11-29 02:37:56 +0000"
     },
     "done": true
   },
@@ -2266,9 +2285,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-11-29 02:39:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/wine": {
     "criteria": {
       "has_grapes": "2024-11-29 01:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-29 02:39:55 +0000"
     },
     "done": true
   },
@@ -2400,6 +2431,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-11-29 02:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-11-29 00:03:34 +0000"
@@ -2433,6 +2470,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-11-29 02:37:56 +0000"
     },
     "done": true
   },
