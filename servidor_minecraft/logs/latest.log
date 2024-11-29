@@ -1958,3 +1958,16 @@
 [03:27:20] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> pa q
 [03:27:46] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
 [03:27:51] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> ya
+[03:29:06] [Server thread/INFO]: PapiRicoJoker has made the advancement [Those Were the Days]
+[03:29:12] [Server thread/INFO]: PapiRicoJoker tried to swim in lava to escape Piglin Brute
+[03:29:14] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[03:29:37] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:30:40] [Server thread/INFO]: [PapiRicoJoker: Gave 1 [Bone Chestplate] to PapiRicoJoker]
+[03:31:49] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> bueno me voy a dormir
+[03:31:50] [Server thread/INFO]: PapiRicoJoker lost connection: Disconnected
+[03:31:50] [Server thread/INFO]: PapiRicoJoker left the game
+[03:31:50] [Server thread/INFO]: [voicechat] Disconnecting client PapiRicoJoker
+[03:33:31] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of loivex accepted server config.
+[03:35:52] [Server thread/INFO]: loivex lost connection: Disconnected
+[03:35:52] [Server thread/INFO]: loivex left the game
+[03:35:52] [Server thread/INFO]: [voicechat] Disconnecting client loivex

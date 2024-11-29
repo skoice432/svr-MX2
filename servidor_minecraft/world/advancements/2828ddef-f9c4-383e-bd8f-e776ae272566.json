@@ -1196,6 +1196,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-29 02:25:42 +0000",
       "minecraft:skeleton": "2024-11-29 01:21:49 +0000",
+      "minecraft:ghast": "2024-11-29 03:28:03 +0000",
       "minecraft:vindicator": "2024-11-29 02:43:33 +0000",
       "minecraft:piglin": "2024-11-29 00:12:51 +0000",
       "minecraft:zombie": "2024-11-29 02:00:20 +0000"
@@ -2080,6 +2081,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "hamburger": "2024-11-29 03:34:12 +0000",
       "toast": "2024-11-29 02:52:09 +0000"
     },
     "done": false

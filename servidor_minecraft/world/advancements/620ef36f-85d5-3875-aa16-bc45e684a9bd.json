@@ -732,7 +732,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-11-29 03:23:37 +0000"
+      "minecraft:nether_wastes": "2024-11-29 03:23:37 +0000",
+      "minecraft:warped_forest": "2024-11-29 03:28:28 +0000"
     },
     "done": false
   },
@@ -787,6 +788,12 @@
   "croptopia:recipes/burrito": {
     "criteria": {
       "has_the_recipe": "2024-11-29 00:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-11-29 03:27:52 +0000"
     },
     "done": true
   },
@@ -1865,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-11-29 03:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 01:12:05 +0000"
@@ -2618,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-11-29 03:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-11-29 01:54:30 +0000"
@@ -2993,6 +3012,12 @@
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2024-11-29 00:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-11-29 03:27:52 +0000"
     },
     "done": true
   },
