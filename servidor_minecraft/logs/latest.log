@@ -1580,3 +1580,158 @@
 [02:57:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
 [02:57:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
 [02:57:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[02:58:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[02:58:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[02:58:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[02:58:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[02:58:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[02:58:07] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> es un huerto
+[02:58:44] [Server thread/INFO]: Villager class_1646['Flossie'/33164, l='ServerLevel[world]', x=583.70, y=114.00, z=-1083.70] died, message: 'Flossie was slain by Zombie'
+[02:58:44] [Server thread/INFO]: Named entity class_1646['Flossie'/33164, l='ServerLevel[world]', x=583.70, y=114.00, z=-1083.70] died: Flossie was slain by Zombie
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[02:58:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[02:58:59] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> chayan fallecio :( rip
+[02:59:30] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> eso dijo ella
+[02:59:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[02:59:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[02:59:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[02:59:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:00:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:00:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:00:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:00:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:00:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:00:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:00:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:00:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:00:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:00:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:00:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:00:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:00:07] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> tengo 3
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:00:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:01:33] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> nadie ciegos
+[03:01:37] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> ocupo el palo
+[03:01:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:01:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:01:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:01:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:01:51] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> forma sexual
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:02:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:02:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:02:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:02:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:02:21] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> vi un vocho amarillo
+[03:02:25] [Server thread/INFO]: PapiRicoJoker was slain by Zombie
+[03:02:27] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:02:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:03:21] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> lo toque decia
+[03:03:43] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> esa es alexa
+[03:03:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:03:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:03:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:03:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:04:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:04:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:04:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:04:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:04:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:04:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:04:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:04:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:04:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:04:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:04:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:04:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:04:09] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> zzzzzzzzzzz
+[03:04:22] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> xdd
+[03:04:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:04:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:04:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:04:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:04:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:04:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:04:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:04:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:05:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:05:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:05:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:05:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:06:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:06:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:06:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:06:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:06:45] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> TAN TANTAN
+[03:06:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:06:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:06:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:06:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:06:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:06:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:06:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:06:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:06:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:06:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:07:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:07:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:07:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:07:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:07:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:07:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chayoton (92efd5f8-774c-363b-8981-8f89fb21aa37) successfully connected to voice chat
+[03:07:35] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Chayoton accepted server config.
+[03:07:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:07:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:07:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 92efd5f8-774c-363b-8981-8f89fb21aa37 timed out
+[03:07:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chayoton
+[03:07:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chayoton
+[03:07:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 92efd5f8-774c-363b-8981-8f89fb21aa37
+[03:08:01] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> ahora otra
+[03:08:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:08:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:08:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:08:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:08:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:08:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
