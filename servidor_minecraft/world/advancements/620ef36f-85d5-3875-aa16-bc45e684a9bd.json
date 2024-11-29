@@ -826,6 +826,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/broccoli_seed": {
+    "criteria": {
+      "has_broccoli": "2024-11-29 02:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-11-28 23:58:22 +0000"
@@ -961,6 +967,12 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2024-11-29 00:23:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leafy_salad": {
+    "criteria": {
+      "has_lettuce": "2024-11-29 02:16:35 +0000"
     },
     "done": true
   },
@@ -1400,6 +1412,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_beef_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2024-11-29 02:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-11-29 01:16:59 +0000"
@@ -1700,6 +1718,13 @@
     },
     "done": true
   },
+  "croptopia:recipes/cucumber_salad": {
+    "criteria": {
+      "has_lettuce": "2024-11-29 02:16:35 +0000",
+      "has_the_recipe": "2024-11-29 02:16:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/lemonade": {
     "criteria": {
       "has_lemon": "2024-11-29 00:28:26 +0000"
@@ -1799,6 +1824,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:12:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lettuce_seed": {
+    "criteria": {
+      "has_lettuce": "2024-11-29 02:16:35 +0000"
     },
     "done": true
   },
@@ -2059,6 +2090,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_lettuce": "2024-11-29 02:16:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2024-11-29 00:50:10 +0000"
@@ -2198,6 +2235,8 @@
       "tomatillo_seed": "2024-11-29 01:46:05 +0000",
       "blueberry_seed": "2024-11-29 01:47:54 +0000",
       "grape_seed": "2024-11-29 01:46:11 +0000",
+      "broccoli_seed": "2024-11-29 02:16:36 +0000",
+      "lettuce_seed": "2024-11-29 02:16:35 +0000",
       "blackberry_seed": "2024-11-29 01:01:59 +0000",
       "corn_seed": "2024-11-29 00:59:22 +0000"
     },
@@ -2218,6 +2257,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-28 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_steamed_broccoli": {
+    "criteria": {
+      "has_broccoli": "2024-11-29 02:16:35 +0000"
     },
     "done": true
   },
@@ -2307,7 +2352,9 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "corn_seed": "2024-11-29 00:59:22 +0000"
+      "lettuce_seed": "2024-11-29 02:16:35 +0000",
+      "corn_seed": "2024-11-29 00:59:22 +0000",
+      "broccoli_seed": "2024-11-29 02:16:36 +0000"
     },
     "done": false
   },
@@ -2686,6 +2733,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:12:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2024-11-29 02:16:35 +0000"
     },
     "done": true
   },

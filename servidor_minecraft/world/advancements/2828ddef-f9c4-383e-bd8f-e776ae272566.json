@@ -13,15 +13,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-29 02:16:54 +0000",
       "minecraft:deep_ocean": "2024-11-29 00:51:20 +0000",
+      "minecraft:frozen_river": "2024-11-29 02:22:25 +0000",
       "minecraft:sunflower_plains": "2024-11-29 00:49:10 +0000",
       "minecraft:beach": "2024-11-29 00:35:00 +0000",
       "minecraft:river": "2024-11-29 00:37:54 +0000",
       "minecraft:stony_shore": "2024-11-29 00:52:10 +0000",
+      "minecraft:snowy_taiga": "2024-11-29 02:22:34 +0000",
       "minecraft:cold_ocean": "2024-11-29 00:44:40 +0000",
       "minecraft:forest": "2024-11-28 23:35:50 +0000",
       "minecraft:deep_cold_ocean": "2024-11-29 00:48:13 +0000",
+      "minecraft:frozen_ocean": "2024-11-29 02:23:04 +0000",
       "minecraft:ocean": "2024-11-29 00:50:53 +0000",
+      "minecraft:snowy_beach": "2024-11-29 02:23:03 +0000",
       "minecraft:plains": "2024-11-29 00:35:21 +0000"
     },
     "done": false
@@ -205,6 +210,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-11-29 02:20:25 +0000"
     },
     "done": true
   },
@@ -682,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -1122,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 02:22:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2024-11-29 01:18:01 +0000"
@@ -1221,6 +1244,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-11-29 00:39:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
     },
     "done": true
   },
@@ -1368,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2024-11-29 01:03:41 +0000"
@@ -1485,6 +1520,12 @@
   "croptopia:recipes/misc/food_press": {
     "criteria": {
       "has_piston": "2024-11-29 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
     },
     "done": true
   },
@@ -1614,6 +1655,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/tools/hose": {
+    "criteria": {
+      "has_hose_nozzle": "2024-11-29 02:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -1638,6 +1685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-11-29 00:06:19 +0000"
@@ -1653,6 +1706,12 @@
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:22:51 +0000"
     },
     "done": true
   },
@@ -1707,6 +1766,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-29 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 02:22:41 +0000"
     },
     "done": true
   },
@@ -1863,6 +1928,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
     },
     "done": true
   },
@@ -2237,6 +2308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2024-11-29 00:04:04 +0000"
@@ -2264,6 +2341,18 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-11-29 01:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
     },
     "done": true
   },
@@ -2345,6 +2434,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-11-29 02:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-29 01:46:58 +0000"
@@ -2354,6 +2449,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-29 02:17:09 +0000"
     },
     "done": true
   },
@@ -2728,6 +2829,12 @@
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2024-11-29 00:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:22:51 +0000"
     },
     "done": true
   },
