@@ -163,9 +163,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-11-29 00:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2024-11-29 00:32:32 +0000"
     },
     "done": true
   },
@@ -319,6 +343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2024-11-29 00:04:08 +0000"
@@ -433,6 +463,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 00:31:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
@@ -445,6 +487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-11-29 00:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2024-11-29 00:03:31 +0000"
@@ -454,6 +502,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-11-29 00:32:44 +0000"
     },
     "done": true
   },
@@ -505,15 +565,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-11-29 00:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-11-29 00:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2024-11-29 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-11-29 00:32:44 +0000"
     },
     "done": true
   },
@@ -526,6 +610,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-11-29 00:32:44 +0000"
     },
     "done": true
   },
@@ -559,6 +649,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-11-29 00:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
@@ -574,6 +670,18 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-11-29 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-11-29 00:29:39 +0000"
     },
     "done": true
   },
@@ -607,9 +715,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2024-11-29 00:32:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-11-29 00:29:59 +0000"
     },
     "done": true
   },
@@ -631,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-29 00:25:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
@@ -646,6 +778,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2024-11-29 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 00:31:15 +0000"
     },
     "done": true
   },
@@ -733,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2024-11-29 00:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2024-11-29 00:04:04 +0000"
@@ -754,6 +898,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-11-29 00:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-11-29 00:32:26 +0000"
     },
     "done": true
   },
@@ -784,6 +934,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-11-29 00:25:55 +0000"
     },
     "done": true
   },
