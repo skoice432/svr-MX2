@@ -616,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-29 01:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-11-29 00:44:56 +0000"
@@ -832,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-29 00:18:43 +0000"
@@ -859,6 +871,12 @@
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2024-11-29 00:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
     },
     "done": true
   },
@@ -1075,6 +1093,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 01:17:40 +0000"
     },
     "done": true
   },
@@ -1316,6 +1340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-11-29 00:44:25 +0000"
@@ -1442,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/lemon_chicken": {
     "criteria": {
       "has_lemon": "2024-11-29 00:28:26 +0000"
@@ -1526,6 +1562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 01:17:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:12:47 +0000"
@@ -1541,6 +1583,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 01:17:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
     },
     "done": true
   },
@@ -1622,6 +1676,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 01:17:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:12:47 +0000"
@@ -1682,6 +1742,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2024-11-29 01:12:47 +0000"
@@ -1715,6 +1781,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
     },
     "done": true
   },
@@ -1819,6 +1891,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-11-29 00:28:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
     },
     "done": true
   },
@@ -1936,6 +2014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/corn_husk": {
     "criteria": {
       "has_corn": "2024-11-29 00:59:22 +0000"
@@ -2041,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2024-11-29 01:13:25 +0000"
@@ -2068,6 +2158,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-11-29 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 01:17:40 +0000"
     },
     "done": true
   },
@@ -2452,6 +2548,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2024-11-29 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-29 01:16:59 +0000"
     },
     "done": true
   },

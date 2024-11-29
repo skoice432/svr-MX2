@@ -516,7 +516,9 @@
       "porkchop": "2024-11-29 00:14:04 +0000",
       "apple": "2024-11-29 01:05:06 +0000",
       "mutton": "2024-11-28 23:59:18 +0000",
-      "bread": "2024-11-29 00:47:03 +0000"
+      "bread": "2024-11-29 00:47:03 +0000",
+      "rotten_flesh": "2024-11-29 01:21:25 +0000",
+      "glow_berries": "2024-11-29 01:18:19 +0000"
     },
     "done": false
   },
@@ -1242,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-29 01:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-11-29 01:01:44 +0000"
@@ -1362,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-11-29 01:23:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:11:29 +0000"
@@ -1377,6 +1391,12 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2024-11-29 00:49:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2024-11-29 01:16:08 +0000"
     },
     "done": true
   },
@@ -1509,6 +1529,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-29 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-29 01:15:03 +0000"
     },
     "done": true
   },
@@ -1704,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-11-29 01:23:11 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:11:29 +0000"
@@ -1761,6 +1793,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-11-29 01:23:11 +0000"
     },
     "done": true
   },
@@ -1860,6 +1898,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-11-29 01:15:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_string": "2024-11-29 00:49:15 +0000"
@@ -1883,6 +1927,18 @@
       "tea_seed": "2024-11-29 01:01:56 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-11-29 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-29 01:24:24 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
@@ -1938,6 +1994,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-11-29 01:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 01:11:29 +0000"
@@ -1965,6 +2027,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-29 01:11:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-11-29 01:17:56 +0000"
     },
     "done": true
   },
@@ -2079,6 +2147,12 @@
   "croptopia:recipes/misc/cooking_pot": {
     "criteria": {
       "has_iron": "2024-11-29 01:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-11-29 01:17:56 +0000"
     },
     "done": true
   },
