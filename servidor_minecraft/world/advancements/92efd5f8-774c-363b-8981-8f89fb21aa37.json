@@ -2102,6 +2102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-11-29 02:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 01:55:40 +0000"
@@ -2119,6 +2125,12 @@
       "minecraft:nether_wastes": "2024-11-29 02:08:57 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-29 02:26:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
@@ -2186,6 +2198,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-11-29 02:27:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-29 02:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-11-29 02:10:14 +0000"
@@ -2201,6 +2225,12 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2024-11-29 02:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-29 02:26:12 +0000"
     },
     "done": true
   },
@@ -2240,6 +2270,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-29 02:26:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 01:55:40 +0000"
@@ -2249,6 +2285,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-11-29 02:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-29 02:26:12 +0000"
     },
     "done": true
   },
@@ -2264,6 +2306,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2024-11-29 02:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 01:55:40 +0000"
@@ -2273,6 +2321,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 01:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-11-29 02:27:36 +0000"
     },
     "done": true
   },
