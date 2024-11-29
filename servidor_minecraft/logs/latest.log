@@ -1916,3 +1916,45 @@
 [03:18:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
 [03:18:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
 [03:18:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:19:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:19:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:19:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:19:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:19:12] [Server thread/INFO]: loivex has made the advancement [Can't Be Used as a Weapon]
+[03:19:30] [Server thread/INFO]: [Not Secure] <Rafiux_Z> escribe
+[03:19:38] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> simon
+[03:19:57] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> perdi el tambor
+[03:19:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:19:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:20:13] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> si te digo q no tengo nada
+[03:20:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:20:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:20:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:20:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:20:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:20:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:20:24] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> xd
+[03:20:34] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> ya te esta llamando tu mama
+[03:20:39] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> bueno chao
+[03:20:50] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> yo tmb ya me voy a dormir
+[03:21:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[03:21:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[03:21:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[03:21:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:22:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[03:22:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[03:22:03] [Server thread/INFO]: Rafiux_Z lost connection: Disconnected
+[03:22:03] [Server thread/INFO]: Rafiux_Z left the game
+[03:22:03] [Server thread/INFO]: [voicechat] Disconnecting client Rafiux_Z
+[03:23:00] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> a
+[03:23:01] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> xd
+[03:23:36] [Server thread/INFO]: PapiRicoJoker has made the advancement [We Need to Go Deeper]
+[03:23:36] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[03:23:43] [Server thread/INFO]: PapiRicoJoker was slain by Spider
+[03:23:45] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[03:23:57] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[03:24:30] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[03:25:23] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of loivex accepted server config.
+[03:27:20] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> pa q
+[03:27:46] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[03:27:51] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> ya

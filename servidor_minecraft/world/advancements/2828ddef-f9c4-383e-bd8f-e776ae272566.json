@@ -232,6 +232,12 @@
     },
     "done": true
   },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2024-11-29 00:55:01 +0000"
@@ -382,6 +388,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_fish_and_chips": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-11-29 01:08:15 +0000"
@@ -472,6 +490,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pizza": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-11-29 00:11:38 +0000"
@@ -523,6 +547,12 @@
   "croptopia:recipes/burrito": {
     "criteria": {
       "has_the_recipe": "2024-11-29 00:37:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweet_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
@@ -856,6 +886,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/sunny_side_eggs": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/peach_boat": {
     "criteria": {
       "in_water": "2024-11-29 00:38:58 +0000"
@@ -1066,6 +1102,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/hashed_brown": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-29 00:44:15 +0000"
@@ -1229,6 +1271,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dauphine_potatoes": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
@@ -1439,6 +1487,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-11-29 00:32:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_wellington": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
@@ -1670,6 +1724,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/croque_madame": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
@@ -1733,6 +1793,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/baked_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
@@ -1943,6 +2009,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-11-29 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_monsieur": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
@@ -2192,6 +2264,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/quiche": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2024-11-29 00:45:19 +0000"
@@ -2270,6 +2348,7 @@
       "blackbean_seed": "2024-11-29 00:55:59 +0000",
       "tea_seed": "2024-11-29 00:55:37 +0000",
       "elderberry_seed": "2024-11-29 00:55:08 +0000",
+      "blueberry_seed": "2024-11-29 03:14:47 +0000",
       "tomato_seed": "2024-11-29 00:55:01 +0000",
       "celery_seed": "2024-11-29 00:55:31 +0000"
     },
@@ -2278,6 +2357,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/the_big_breakfast": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
@@ -2665,11 +2750,19 @@
       "tea_seed": "2024-11-29 00:55:37 +0000",
       "elderberry_seed": "2024-11-29 00:55:08 +0000",
       "tomato_seed": "2024-11-29 00:55:01 +0000",
+      "blueberry_seed": "2024-11-29 03:14:47 +0000",
       "celery_seed": "2024-11-29 00:55:31 +0000",
+      "broccoli_seed": "2024-11-29 03:14:46 +0000",
       "blackberry_seed": "2024-11-29 00:55:09 +0000",
       "corn_seed": "2024-11-29 01:03:43 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/misc/tomatillo_seed": {
+    "criteria": {
+      "has_tomatillo": "2024-11-29 03:14:47 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
@@ -2817,7 +2910,8 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "corn_seed": "2024-11-29 01:03:43 +0000"
+      "corn_seed": "2024-11-29 01:03:43 +0000",
+      "broccoli_seed": "2024-11-29 03:14:46 +0000"
     },
     "done": false
   },
@@ -2917,6 +3011,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/grilled_cheese": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-11-29 00:14:38 +0000"
@@ -2974,6 +3074,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-11-29 02:54:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-11-29 03:14:43 +0000"
     },
     "done": true
   },
@@ -3040,6 +3146,12 @@
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2024-11-29 01:03:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cinnamon_roll": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
@@ -3110,6 +3222,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tortilla": {
+    "criteria": {
+      "has_frying_pan": "2024-11-29 03:19:12 +0000"
     },
     "done": true
   },
