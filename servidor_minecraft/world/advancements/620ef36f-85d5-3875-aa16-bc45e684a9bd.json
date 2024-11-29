@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-29 00:38:40 +0000",
       "minecraft:birch_forest": "2024-11-28 18:39:22 +0000",
       "minecraft:beach": "2024-11-29 00:09:14 +0000",
       "minecraft:river": "2024-11-29 00:15:21 +0000",
@@ -32,7 +33,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-11-28 23:43:17 +0000"
+      "cooked_beef": "2024-11-28 23:43:17 +0000",
+      "apple": "2024-11-29 00:36:21 +0000",
+      "bread": "2024-11-29 00:42:28 +0000"
     },
     "done": false
   },
@@ -474,9 +477,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cherry_pie": {
+    "criteria": {
+      "has_cherry": "2024-11-29 00:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-29 00:18:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-11-29 00:36:14 +0000"
     },
     "done": true
   },
@@ -519,6 +534,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-11-29 00:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-29 00:42:22 +0000"
     },
     "done": true
   },
@@ -660,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-29 00:42:22 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2024-11-29 00:21:50 +0000"
@@ -669,6 +696,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-29 00:21:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-11-29 00:42:22 +0000"
     },
     "done": true
   },
@@ -708,6 +741,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-11-29 00:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-11-29 00:03:34 +0000"
@@ -732,9 +771,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-11-29 00:42:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_beef": "2024-11-29 00:29:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_sapling": {
+    "criteria": {
+      "has_cherry": "2024-11-29 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-29 00:40:25 +0000"
     },
     "done": true
   },
@@ -808,6 +865,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-11-29 00:42:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2024-11-29 00:03:34 +0000"
@@ -838,6 +901,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-11-29 00:42:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-11-29 00:28:14 +0000"
@@ -850,15 +919,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-29 00:44:25 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:mysticsbiomes/root": {
     "criteria": {
       "lavender_meadow": "2024-11-29 00:26:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-29 00:44:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/lemon_sapling": {
     "criteria": {
       "has_lemon": "2024-11-29 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 00:42:20 +0000"
     },
     "done": true
   },
@@ -880,6 +967,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-11-29 00:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-11-29 00:02:03 +0000"
@@ -898,9 +991,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 00:42:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/lemon_chicken": {
     "criteria": {
       "has_lemon": "2024-11-29 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-11-29 00:42:21 +0000"
     },
     "done": true
   },
@@ -994,6 +1099,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cherry_jam": {
+    "criteria": {
+      "has_cherry": "2024-11-29 00:35:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apricot_sapling": {
     "criteria": {
       "has_apricot": "2024-11-29 00:34:00 +0000"
@@ -1054,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-29 00:42:22 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-11-29 00:23:38 +0000"
@@ -1105,6 +1222,18 @@
   "croptopia:recipes/misc/starfruit_sapling": {
     "criteria": {
       "has_starfruit": "2024-11-29 00:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-29 00:42:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2024-11-29 00:36:14 +0000"
     },
     "done": true
   },
@@ -1246,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 00:42:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-29 00:03:58 +0000"
@@ -1276,6 +1411,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-11-29 00:44:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-11-29 00:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 23:59:27 +0000"
@@ -1291,6 +1438,18 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-29 00:18:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-11-29 00:42:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pear_sapling": {
+    "criteria": {
+      "has_pear": "2024-11-29 00:40:55 +0000"
     },
     "done": true
   },
@@ -1336,6 +1495,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-11-29 00:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2024-11-29 00:17:36 +0000"
@@ -1345,6 +1510,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-11-29 00:29:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-11-29 00:44:25 +0000"
     },
     "done": true
   },

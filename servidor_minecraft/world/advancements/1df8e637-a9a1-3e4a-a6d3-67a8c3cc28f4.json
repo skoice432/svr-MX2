@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-29 00:41:44 +0000",
       "minecraft:birch_forest": "2024-11-28 23:53:47 +0000",
       "minecraft:beach": "2024-11-29 00:01:18 +0000",
       "minecraft:river": "2024-11-29 00:00:37 +0000",
@@ -1122,6 +1123,25 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-29 00:22:48 +0000",
+      "minecraft:zombie": "2024-11-29 00:23:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-29 00:22:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-11-29 00:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-11-29 00:23:45 +0000"
@@ -1133,13 +1153,6 @@
       "has_egg": "2024-11-29 00:23:45 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-11-29 00:22:48 +0000",
-      "minecraft:zombie": "2024-11-29 00:23:10 +0000"
-    },
-    "done": false
   },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
@@ -1165,12 +1178,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/skeleton": {
-    "criteria": {
-      "has_arrow": "2024-11-29 00:22:49 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2024-11-29 00:23:45 +0000"
@@ -1183,15 +1190,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2024-11-29 00:22:48 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2024-11-29 00:23:45 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:mysticsbiomes/root": {
+    "criteria": {
+      "autumnal_grove": "2024-11-29 00:40:39 +0000"
     },
     "done": true
   },
