@@ -1066,6 +1066,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2024-11-29 03:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-11-29 00:03:34 +0000"

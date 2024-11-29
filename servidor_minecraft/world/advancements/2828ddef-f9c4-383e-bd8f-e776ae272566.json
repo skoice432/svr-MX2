@@ -1988,6 +1988,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-29 03:11:08 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/food/chocolate_cake": {
     "criteria": {
       "has_egg": "2024-11-29 01:17:12 +0000"
@@ -2584,6 +2590,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2024-11-29 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-11-29 03:09:18 +0000"
     },
     "done": true
   },
