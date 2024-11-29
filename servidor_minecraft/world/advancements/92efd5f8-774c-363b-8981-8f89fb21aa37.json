@@ -2181,6 +2181,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-11-29 02:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-29 02:44:45 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2024-11-29 02:03:12 +0000"
@@ -2205,9 +2217,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-11-29 02:52:21 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2024-11-29 02:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-11-29 02:46:00 +0000"
     },
     "done": true
   },
@@ -2270,6 +2294,12 @@
       "has_quartz": "2024-11-29 02:10:14 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2024-11-29 02:52:21 +0000"
+    },
+    "done": false
   },
   "croptopia:recipes/food/molasses_from_sugar_cane": {
     "criteria": {

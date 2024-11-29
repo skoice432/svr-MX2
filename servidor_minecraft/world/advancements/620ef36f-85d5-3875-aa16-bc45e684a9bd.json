@@ -1208,6 +1208,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-29 02:43:31 +0000",
       "minecraft:skeleton": "2024-11-29 00:20:01 +0000",
+      "minecraft:ravager": "2024-11-29 02:45:58 +0000",
       "minecraft:spider": "2024-11-29 00:03:33 +0000",
       "minecraft:creeper": "2024-11-29 00:22:46 +0000",
       "minecraft:enderman": "2024-11-29 00:23:00 +0000",
@@ -1386,6 +1387,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-29 00:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-11-29 02:46:00 +0000"
     },
     "done": true
   },

@@ -652,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -868,6 +874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/popcorn_from_smoking_corn": {
     "criteria": {
       "has_corn": "2024-11-29 01:04:01 +0000"
@@ -1060,6 +1072,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-11-29 02:52:09 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/sea_foam_boat": {
     "criteria": {
       "in_water": "2024-11-29 00:38:58 +0000"
@@ -1111,6 +1129,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-11-29 00:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
     },
     "done": true
   },
@@ -1286,6 +1310,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-11-29 02:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-11-29 00:38:58 +0000"
@@ -1367,6 +1397,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-29 01:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-11-29 02:46:00 +0000"
     },
     "done": true
   },
@@ -1619,6 +1655,12 @@
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-29 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
     },
     "done": true
   },
@@ -1910,6 +1952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -1951,6 +1999,12 @@
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2024-11-29 02:52:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
@@ -2138,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-29 00:04:24 +0000"
@@ -2305,6 +2365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 00:45:19 +0000"
@@ -2452,6 +2518,12 @@
   "croptopia:recipes/corn_husk": {
     "criteria": {
       "has_corn": "2024-11-29 01:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
     },
     "done": true
   },
@@ -2875,6 +2947,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2024-11-29 01:03:46 +0000"
@@ -2908,6 +2992,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-11-29 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 02:54:23 +0000"
     },
     "done": true
   },
@@ -2945,6 +3035,7 @@
     "criteria": {
       "cooked_mutton": "2024-11-29 02:42:35 +0000",
       "cooked_beef": "2024-11-29 01:13:35 +0000",
+      "baked_potato": "2024-11-29 02:45:36 +0000",
       "apple": "2024-11-29 00:39:04 +0000",
       "bread": "2024-11-29 01:04:50 +0000"
     },
