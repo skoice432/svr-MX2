@@ -1526,6 +1526,12 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/food/orange_frosted_cake": {
+    "criteria": {
+      "has_egg": "2024-11-29 02:13:22 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2024-11-29 01:54:30 +0000"
@@ -2203,6 +2209,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-11-29 02:13:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-28 23:58:22 +0000"
@@ -2578,6 +2590,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-29 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-11-29 02:13:25 +0000"
     },
     "done": true
   },

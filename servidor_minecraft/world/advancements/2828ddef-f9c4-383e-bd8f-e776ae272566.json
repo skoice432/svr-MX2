@@ -184,6 +184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-11-29 02:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-11-29 00:32:26 +0000"
@@ -712,6 +718,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 02:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-11-29 00:11:38 +0000"
@@ -1116,6 +1128,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2024-11-29 02:09:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2024-11-29 01:03:43 +0000"
@@ -1233,6 +1251,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-11-29 00:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-11-29 02:09:49 +0000"
     },
     "done": true
   },
@@ -2075,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-11-29 02:09:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2024-11-29 00:04:14 +0000"
@@ -2597,6 +2627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 02:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-11-29 01:13:35 +0000",
@@ -2638,6 +2674,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2024-11-29 00:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 02:10:48 +0000"
     },
     "done": true
   },
