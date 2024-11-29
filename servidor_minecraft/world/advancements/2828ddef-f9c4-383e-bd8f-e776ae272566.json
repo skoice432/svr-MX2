@@ -310,6 +310,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-29 01:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:04:24 +0000"
@@ -343,6 +349,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-29 01:05:44 +0000"
     },
     "done": true
   },
@@ -940,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-29 01:05:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 00:11:36 +0000"
@@ -1009,6 +1027,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2024-11-29 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-11-29 01:04:45 +0000"
     },
     "done": true
   },
@@ -1327,6 +1351,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-11-29 00:32:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-11-29 01:04:45 +0000"
     },
     "done": true
   },
@@ -1785,6 +1815,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-11-29 01:05:44 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/sea_foam_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-29 00:44:15 +0000"
@@ -2019,6 +2055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-29 01:05:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-11-29 00:12:47 +0000"
@@ -2052,6 +2094,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:piglin": "2024-11-29 00:12:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-11-29 01:05:44 +0000"
     },
     "done": true
   },
@@ -2153,7 +2201,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-11-29 00:39:04 +0000"
+      "cooked_beef": "2024-11-29 01:13:35 +0000",
+      "apple": "2024-11-29 00:39:04 +0000",
+      "bread": "2024-11-29 01:04:50 +0000"
     },
     "done": false
   },
@@ -2280,6 +2330,12 @@
   "croptopia:recipes/candied_nuts": {
     "criteria": {
       "has_the_recipe": "2024-11-29 01:04:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-11-29 01:04:45 +0000"
     },
     "done": true
   },
