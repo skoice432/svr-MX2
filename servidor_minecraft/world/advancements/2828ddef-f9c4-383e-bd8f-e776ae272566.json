@@ -17,6 +17,7 @@
       "minecraft:deep_ocean": "2024-11-29 00:51:20 +0000",
       "minecraft:frozen_river": "2024-11-29 02:22:25 +0000",
       "minecraft:sunflower_plains": "2024-11-29 00:49:10 +0000",
+      "minecraft:birch_forest": "2024-11-30 21:10:09 +0000",
       "minecraft:beach": "2024-11-29 00:35:00 +0000",
       "minecraft:river": "2024-11-29 00:37:54 +0000",
       "minecraft:stony_shore": "2024-11-29 00:52:10 +0000",
@@ -27,6 +28,7 @@
       "minecraft:frozen_ocean": "2024-11-29 02:23:04 +0000",
       "minecraft:ocean": "2024-11-29 00:50:53 +0000",
       "minecraft:snowy_beach": "2024-11-29 02:23:03 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-30 21:10:48 +0000",
       "minecraft:meadow": "2024-11-29 02:40:36 +0000",
       "minecraft:plains": "2024-11-29 00:35:21 +0000"
     },
@@ -856,6 +858,7 @@
       "minecraft:skeleton": "2024-11-29 01:21:49 +0000",
       "minecraft:ghast": "2024-11-29 03:28:03 +0000",
       "minecraft:vindicator": "2024-11-29 02:43:33 +0000",
+      "minecraft:spider": "2024-11-30 21:11:05 +0000",
       "minecraft:piglin": "2024-11-29 00:12:51 +0000",
       "minecraft:zombie": "2024-11-29 02:00:20 +0000"
     },
@@ -3479,15 +3482,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-11-30 20:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-11-30 20:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-30 20:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-11-30 20:52:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-11-30 21:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-11-30 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-30 20:58:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2024-11-30 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-11-30 21:01:49 +0000"
     },
     "done": true
   },
@@ -3515,9 +3584,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-11-30 20:58:53 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2024-11-30 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-11-30 20:58:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
     },
     "done": true
   },
@@ -3527,9 +3620,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-11-30 20:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-11-30 20:59:21 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2024-11-30 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-11-30 21:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-11-30 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-11-30 20:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
     },
     "done": true
   },
@@ -3539,15 +3680,69 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-11-30 21:08:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-11-30 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-30 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-11-30 21:10:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_sugar": "2024-11-30 20:51:53 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-30 20:58:53 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/plum_sapling": {
     "criteria": {
       "has_plum": "2024-11-30 20:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-11-30 20:58:57 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-11-30 21:08:55 +0000"
     },
     "done": true
   },
