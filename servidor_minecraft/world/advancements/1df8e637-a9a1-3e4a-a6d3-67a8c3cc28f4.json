@@ -2923,6 +2923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-30 23:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 21:24:15 +0000"
@@ -3658,6 +3664,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2024-11-30 22:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-30 23:38:56 +0000"
     },
     "done": true
   },
