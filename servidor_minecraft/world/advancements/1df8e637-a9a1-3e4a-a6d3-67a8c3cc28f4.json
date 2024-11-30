@@ -2755,6 +2755,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2024-11-30 23:46:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:frying_pan": {
     "criteria": {
       "frying_pan": "2024-11-30 21:28:19 +0000"
