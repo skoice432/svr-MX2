@@ -1,5 +1,5 @@
-[19:49:59] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
-[19:49:59] [main/INFO]: Loading 148 mods:
+[20:37:51] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
+[20:37:55] [main/INFO]: Loading 148 mods:
 	- antique_atlas 2.10.0+1.20
 	- betterdungeons 1.20-Fabric-4.0.4
 	   \-- org_reflections_reflections 0.10.2
@@ -164,480 +164,502 @@
 	- yungsapi 1.20-Fabric-4.0.6
 	   \-- org_javassist_javassist 3.29.2-GA
 	- yungsbridges 1.20-Fabric-4.0.3
-[19:49:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/svr-MX2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:49:59] [main/INFO]: Compatibility level set to JAVA_17
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:50:00] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[19:50:00] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[19:50:00] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[19:50:00] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
-[19:50:00] [main/WARN]: Reference map 'CerbonsAPI-Fabric-1.20.1-fabric-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:50:00] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
-[19:50:00] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
-[19:50:00] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
-[19:50:00] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
-[19:50:01] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[19:50:01] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[19:50:01] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[19:50:01] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[19:50:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:50:09] [main/INFO]: Apoli 2.9.0 has initialized. Ready to power up your game!
-[19:50:09] [main/INFO]: Reflections took 40 ms to scan 1 urls, producing 1 keys and 3 values
-[19:50:09] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[19:50:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:09] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[19:50:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[19:50:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:09] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:09] [main/INFO]: BountyHunt is initializing!
-[19:50:09] [main/INFO]: Loaded config file.
-[19:50:09] [main/INFO]: Files up to date
-[19:50:09] [main/INFO]: Loaded BountyHunt files.
-[19:50:09] [main/INFO]: Registered commands.
-[19:50:09] [main/INFO]: BountyHunt has been initialized!
-[19:50:09] [main/INFO]: Loading Collective version 7.87.
-[19:50:09] [main/INFO]: Creating default config file: croptopia_v3.conf
-[19:50:10] [Cicada thread 0/INFO]: 'Rip ballin catroversies'
-[19:50:10] [main/INFO]: Constructing common components for easyanvils:main
-[19:50:10] [main/INFO]: Constructing common components for easymagic:main
-[19:50:10] [main/INFO]: Mob Origins version 1.11.1 is loaded!
-[19:50:10] [main/INFO]: mystic's biomes ~ registering biomes
-[19:50:11] [main/INFO]: mystic's biomes ~ registering blocks
-[19:50:11] [main/ERROR]: No data fixer registered for butterfly_nest
-[19:50:11] [main/INFO]: mystic's biomes ~ registering block entities
-[19:50:11] [main/ERROR]: No data fixer registered for strawberry_cow
-[19:50:11] [main/ERROR]: No data fixer registered for vanilla_cow
-[19:50:11] [main/ERROR]: No data fixer registered for chocolate_cow
-[19:50:11] [main/ERROR]: No data fixer registered for rainbow_chicken
-[19:50:11] [main/ERROR]: No data fixer registered for red_panda
-[19:50:11] [main/ERROR]: No data fixer registered for sea_otter
-[19:50:11] [main/ERROR]: No data fixer registered for butterfly
-[19:50:11] [main/ERROR]: No data fixer registered for rainbow_egg
-[19:50:11] [main/INFO]: mystic's biomes ~ registering animals & critters
-[19:50:11] [main/INFO]: mystic's biomes ~ registering items
-[19:50:11] [main/INFO]: mystic's biomes ~ registering features
-[19:50:11] [main/INFO]: mystic's biomes ~ registering configured features
-[19:50:11] [main/INFO]: mystic's biomes ~ registering placed features
-[19:50:11] [main/INFO]: mystic's biomes ~ registering poi types
-[19:50:11] [main/INFO]: mystic's biomes ~ registering sounds
-[19:50:11] [main/INFO]: mystic's biomes ~ registering creative tab
-[19:50:11] [main/INFO]: Origins 1.10.0 is initializing. Have fun!
-[19:50:11] [main/INFO]: Constructing common components for puzzleslib:main
-[19:50:11] [main/INFO]: Loaded config supplementaries-common.json
-[19:50:11] [main/INFO]: [Surveyor] is not a map mod
-[19:50:11] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[19:50:11] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[19:50:11] [main/INFO]: Registered region mysticsbiomes:overworld_provider to index 1 for type OVERWORLD
-[19:50:11] [main/ERROR]: No data fixer registered for 
-[19:50:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[19:50:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[19:50:11] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[19:50:11] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[19:50:11] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[19:50:11] [main/INFO]: [voicechat] Compatibility version 18
-[19:50:11] [main/INFO]: [voicechat] Loading plugins
-[19:50:11] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[19:50:11] [main/INFO]: [voicechat] Initializing plugins
-[19:50:11] [main/INFO]: Initializing Simple Voice Chat integration
-[19:50:11] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[19:50:11] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
-[19:50:11] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
-[19:50:11] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
-[19:50:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:11] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
-[19:50:12] [main/INFO]: Initialized block sets in 14ms
-[19:50:12] [main/ERROR]: No data fixer registered for dispenser_minecart
-[19:50:12] [main/ERROR]: No data fixer registered for falling_urn
-[19:50:12] [main/ERROR]: No data fixer registered for falling_ash
-[19:50:12] [main/ERROR]: No data fixer registered for falling_sack
-[19:50:12] [main/ERROR]: No data fixer registered for brick_projectile
-[19:50:12] [main/ERROR]: No data fixer registered for slimeball_projectile
-[19:50:12] [main/ERROR]: No data fixer registered for bomb
-[19:50:12] [main/ERROR]: No data fixer registered for cannonball
-[19:50:12] [main/ERROR]: No data fixer registered for rope_arrow
-[19:50:12] [main/ERROR]: No data fixer registered for slingshot_projectile
-[19:50:12] [main/INFO]: Loaded config smarterfarmers-common.json
-[19:50:12] [main/INFO]: Initialized color sets in 22ms
-[19:50:12] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 0, 12, 3, 0] ms
-[19:50:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:50:12] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 29 ms
-[19:50:13] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[19:50:14] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[19:50:14] [main/INFO]: Loaded 7 recipes
-[19:50:14] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[19:50:14] [main/INFO]: Loaded 2121 advancements
-[19:50:14] [main/INFO]: Finished loading powers from data files. Registry contains 256 powers.
-[19:50:14] [main/INFO]: Finished loading origins from data files. Registry contains 40 origins.
-[19:50:14] [main/INFO]: Trying to read layer file: origins-classes:class
-[19:50:14] [main/INFO]: Trying to read layer file: origins:origin
-[19:50:14] [main/INFO]: Trying to read layer file: origins:origin
-[19:50:14] [main/INFO]: Trying to read layer file: origins:origin
-[19:50:14] [main/INFO]: Finished loading origin layers from data files. Read 2 layers.
-[19:50:14] [main/INFO]: Loaded 27 flute songs
-[19:50:14] [main/INFO]: Loaded 0 global power sets.
-[19:50:15] [main/INFO]: Applied 7 data villager trades
-[19:50:15] [main/INFO]: Finished additional setup in 0 ms
-[19:50:16] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[19:50:16] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[19:50:16] [main/INFO]: Applied 438 biome modifications to 72 of 72 new biomes in 20.09 ms
-[19:50:16] [Server thread/INFO]: Loading server config for easyanvils
-[19:50:16] [Thread-5/INFO]: Reloading server config for easyanvils
-[19:50:16] [Server thread/INFO]: Loading server config for easymagic
-[19:50:16] [Thread-5/INFO]: Reloading server config for easyanvils
-[19:50:16] [Server thread/INFO]: Starting background profiler...
-[19:50:16] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:50:16] [Server thread/INFO]: Loading properties
-[19:50:16] [Server thread/INFO]: Default game type: SURVIVAL
-[19:50:16] [Server thread/INFO]: Generating keypair
-[19:50:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:50:16] [Server thread/INFO]: Using epoll channel type
-[19:50:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:50:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:50:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:50:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:50:17] [Server thread/INFO]: Preparing level "world"
-[19:50:17] [Server thread/INFO]: Enforcing safe world random access
-[19:50:17] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
-[19:50:17] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
-[19:50:18] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
-[19:50:18] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
-[19:50:20] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
-[19:50:20] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
-[19:50:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:50:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:50:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:50:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:50:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:50:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:50:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:50:23] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[19:50:24] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:50:24] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[19:50:25] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[19:50:25] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[19:50:26] [Worker-Main-2/INFO]: Preparing spawn area: 32%
-[19:50:26] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[19:50:27] [Worker-Main-3/INFO]: Preparing spawn area: 80%
-[19:50:27] [Server thread/INFO]: Time elapsed: 7037 ms
-[19:50:27] [Server thread/INFO]: Done (10.701s)! For help, type "help"
-[19:50:27] [Server thread/INFO]: Start loading plugin from Jade
-[19:50:27] [Server thread/INFO]: Start loading plugin from Jade
-[19:50:27] [Server thread/INFO]: Start loading plugin from Jade
-[19:50:27] [Server thread/INFO]: Start loading plugin from Supplementaries
-[19:50:27] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_faucet_test_level
-[19:50:27] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_faucet_test_level
-[19:50:34] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[19:50:34] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'brand-advised.gl.at.ply.gg'
-[19:50:34] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1217
-[19:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6879ms or 137 ticks behind
-[19:52:52] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:36523] logged in with entity id 69 at (595.6999999880791, 126.0, -1033.8815269496292)
-[19:52:52] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
-[19:52:52] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_projectile_test_level
-[19:52:52] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_projectile_test_level
-[19:52:58] [Server thread/INFO]: Loading config from file...
-[19:52:58] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[19:52:58] [Server thread/INFO]: PapiRicoJoker joined the game
-[19:52:58] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
-[19:52:58] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5984ms or 119 ticks behind
-[19:52:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
-[19:53:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:53:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:53:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:53:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:53:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:53:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:53:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:53:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:53:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:53:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:53:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:54:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:54:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:54:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:54:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:54:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:54:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:54:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:54:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:54:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:54:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:54:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:54:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:55:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:55:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:55:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:55:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:55:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:55:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:55:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:55:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:55:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:55:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:55:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:55:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:56:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:56:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:56:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:56:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:56:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:56:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:56:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:56:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:56:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:56:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:56:31] [IOWorker-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 172 chunks (1.07%), ETA: 0:00:09, Rate: 1720.0 cps, Current: 46, -81
-[19:56:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:56:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:56:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1005 chunks (6.23%), ETA: 0:00:17, Rate: 859.7 cps, Current: 56, -95
-[19:56:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1015 chunks (6.29%), ETA: 0:00:36, Rate: 410.8 cps, Current: 64, -93
-[19:56:34] [Worker-Main-4/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1022 chunks (6.34%), ETA: 0:00:51, Rate: 294.4 cps, Current: 65, -94
-[19:56:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1032 chunks (6.40%), ETA: 0:01:07, Rate: 223.9 cps, Current: 69, -91
-[19:56:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1048 chunks (6.50%), ETA: 0:01:22, Rate: 182.8 cps, Current: 62, -95
-[19:56:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1061 chunks (6.58%), ETA: 0:01:39, Rate: 152.0 cps, Current: 67, -95
-[19:56:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1076 chunks (6.67%), ETA: 0:01:53, Rate: 132.1 cps, Current: 71, -93
-[19:56:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1089 chunks (6.75%), ETA: 0:02:08, Rate: 117.0 cps, Current: 76, -92
-[19:56:41] [IOWorker-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1525 chunks (9.46%), ETA: 0:01:38, Rate: 147.9 cps, Current: 84, -79
-[19:56:43] [IOWorker-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1692 chunks (10.49%), ETA: 0:01:38, Rate: 146.4 cps, Current: 92, -76
-[19:56:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1746 chunks (10.83%), ETA: 0:01:44, Rate: 138.0 cps, Current: 93, -78
-[19:56:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1769 chunks (10.97%), ETA: 0:01:50, Rate: 129.5 cps, Current: 94, -86
-[19:56:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1789 chunks (11.09%), ETA: 0:01:57, Rate: 121.8 cps, Current: 89, -86
-[19:56:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1886 chunks (11.69%), ETA: 0:01:59, Rate: 119.7 cps, Current: 83, -88
-[19:56:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1912 chunks (11.85%), ETA: 0:02:04, Rate: 113.8 cps, Current: 83, -91
-[19:56:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1929 chunks (11.96%), ETA: 0:02:11, Rate: 108.1 cps, Current: 82, -95
-[19:56:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1949 chunks (12.08%), ETA: 0:02:19, Rate: 102.0 cps, Current: 88, -88
-[19:56:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1981 chunks (12.28%), ETA: 0:02:23, Rate: 98.4 cps, Current: 93, -88
-[19:56:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2005 chunks (12.43%), ETA: 0:02:28, Rate: 94.8 cps, Current: 94, -94
-[19:56:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2018 chunks (12.51%), ETA: 0:02:34, Rate: 91.0 cps, Current: 95, -81
-[19:56:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2027 chunks (12.57%), ETA: 0:02:48, Rate: 83.6 cps, Current: 65, -127
-[19:56:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2039 chunks (12.64%), ETA: 0:02:55, Rate: 80.5 cps, Current: 67, -123
-[19:56:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2050 chunks (12.71%), ETA: 0:03:01, Rate: 77.7 cps, Current: 70, -123
-[19:56:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2069 chunks (12.83%), ETA: 0:03:07, Rate: 75.0 cps, Current: 71, -127
-[19:57:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2084 chunks (12.92%), ETA: 0:03:15, Rate: 71.9 cps, Current: 95, -91
-[19:57:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2097 chunks (13.00%), ETA: 0:06:10, Rate: 37.9 cps, Current: 93, -96
-[19:57:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2108 chunks (13.07%), ETA: 0:06:19, Rate: 37.0 cps, Current: 76, -124
-[19:57:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2133 chunks (13.22%), ETA: 0:06:05, Rate: 38.3 cps, Current: 64, -127
-[19:57:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2157 chunks (13.37%), ETA: 0:05:58, Rate: 38.9 cps, Current: 76, -119
-[19:57:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2175 chunks (13.49%), ETA: 0:06:04, Rate: 38.2 cps, Current: 67, -121
-[19:57:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2196 chunks (13.62%), ETA: 0:06:02, Rate: 38.5 cps, Current: 73, -115
-[19:57:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2216 chunks (13.74%), ETA: 0:05:56, Rate: 39.0 cps, Current: 71, -120
-[19:57:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2242 chunks (13.90%), ETA: 0:05:50, Rate: 39.6 cps, Current: 65, -118
-[19:57:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2268 chunks (14.06%), ETA: 0:05:47, Rate: 39.9 cps, Current: 65, -113
-[19:57:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2283 chunks (14.15%), ETA: 0:08:54, Rate: 25.9 cps, Current: 69, -112
-[19:57:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2298 chunks (14.25%), ETA: 0:11:13, Rate: 20.5 cps, Current: 71, -128
-[19:57:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2319 chunks (14.38%), ETA: 0:11:53, Rate: 19.4 cps, Current: 66, -107
-[19:57:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2330 chunks (14.45%), ETA: 0:12:11, Rate: 18.9 cps, Current: 79, -128
-[19:57:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2353 chunks (14.59%), ETA: 0:12:06, Rate: 19.0 cps, Current: 79, -119
-[19:57:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:57:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:57:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:57:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:57:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2382 chunks (14.77%), ETA: 0:13:43, Rate: 16.7 cps, Current: 68, -104
-[19:57:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:57:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:57:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2411 chunks (14.95%), ETA: 0:13:38, Rate: 16.8 cps, Current: 72, -104
-[19:57:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2437 chunks (15.11%), ETA: 0:13:22, Rate: 17.1 cps, Current: 75, -97
-[19:57:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2456 chunks (15.23%), ETA: 0:13:21, Rate: 17.1 cps, Current: 77, -107
-[19:57:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2521 chunks (15.63%), ETA: 0:12:32, Rate: 18.1 cps, Current: 79, -113
-[19:57:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2537 chunks (15.73%), ETA: 0:12:38, Rate: 17.9 cps, Current: 81, -110
-[19:57:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2549 chunks (15.80%), ETA: 0:12:06, Rate: 18.7 cps, Current: 79, -109
-[19:57:24] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2578 chunks (15.98%), ETA: 0:11:52, Rate: 19.0 cps, Current: 84, -106
-[19:57:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2619 chunks (16.24%), ETA: 0:11:14, Rate: 20.0 cps, Current: 83, -97
-[19:57:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2655 chunks (16.46%), ETA: 0:10:53, Rate: 20.6 cps, Current: 87, -102
-[19:57:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2692 chunks (16.69%), ETA: 0:10:29, Rate: 21.3 cps, Current: 93, -99
-[19:57:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2717 chunks (16.85%), ETA: 0:10:12, Rate: 21.9 cps, Current: 93, -104
-[19:57:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2745 chunks (17.02%), ETA: 0:09:57, Rate: 22.4 cps, Current: 87, -109
-[19:57:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2769 chunks (17.17%), ETA: 0:09:55, Rate: 22.4 cps, Current: 94, -108
-[19:57:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:57:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:57:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:57:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2782 chunks (17.25%), ETA: 0:09:53, Rate: 22.5 cps, Current: 85, -112
-[19:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:57:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2794 chunks (17.32%), ETA: 0:09:55, Rate: 22.4 cps, Current: 94, -113
-[19:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:57:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2802 chunks (17.37%), ETA: 0:10:10, Rate: 21.8 cps, Current: 93, -116
-[19:57:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2822 chunks (17.50%), ETA: 0:10:07, Rate: 21.9 cps, Current: 90, -116
-[19:57:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2845 chunks (17.64%), ETA: 0:10:03, Rate: 22.0 cps, Current: 88, -114
-[19:57:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2892 chunks (17.93%), ETA: 0:09:36, Rate: 23.0 cps, Current: 86, -117
-[19:57:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2910 chunks (18.04%), ETA: 0:09:42, Rate: 22.7 cps, Current: 85, -120
-[19:57:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2948 chunks (18.28%), ETA: 0:09:28, Rate: 23.2 cps, Current: 81, -127
-[19:57:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2973 chunks (18.43%), ETA: 0:09:20, Rate: 23.5 cps, Current: 88, -120
-[19:57:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3001 chunks (18.61%), ETA: 0:09:04, Rate: 24.1 cps, Current: 91, -123
-[19:57:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3113 chunks (19.30%), ETA: 0:07:55, Rate: 27.4 cps, Current: 46, -126
-[19:57:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3687 chunks (22.86%), ETA: 0:04:27, Rate: 46.5 cps, Current: 58, -103
-[19:57:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3717 chunks (23.05%), ETA: 0:04:25, Rate: 46.8 cps, Current: 63, -99
-[19:57:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3795 chunks (23.53%), ETA: 0:04:14, Rate: 48.5 cps, Current: 58, -109
-[19:57:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4364 chunks (27.06%), ETA: 0:02:55, Rate: 67.2 cps, Current: 61, -121
-[19:57:48] [IOWorker-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4862 chunks (30.14%), ETA: 0:02:14, Rate: 83.6 cps, Current: 30, -111
-[19:57:49] [IOWorker-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 7763 chunks (48.13%), ETA: 0:00:45, Rate: 184.4 cps, Current: 49, -35
-[19:57:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 8869 chunks (54.99%), ETA: 0:00:33, Rate: 214.8 cps, Current: 76, -35
-[19:57:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9337 chunks (57.89%), ETA: 0:00:29, Rate: 229.0 cps, Current: 84, -33
-[19:57:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9341 chunks (57.91%), ETA: 0:00:29, Rate: 228.4 cps, Current: 92, -33
-[19:57:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9372 chunks (58.11%), ETA: 0:00:29, Rate: 229.2 cps, Current: 96, -75
-[19:57:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9406 chunks (58.32%), ETA: 0:00:29, Rate: 229.7 cps, Current: 98, -95
-[19:57:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9429 chunks (58.46%), ETA: 0:00:29, Rate: 229.7 cps, Current: 98, -72
-[19:57:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9452 chunks (58.60%), ETA: 0:00:28, Rate: 232.4 cps, Current: 99, -85
-[19:57:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9466 chunks (58.69%), ETA: 0:00:28, Rate: 232.2 cps, Current: 96, -127
-[19:57:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9490 chunks (58.84%), ETA: 0:00:28, Rate: 232.7 cps, Current: 96, -104
-[19:57:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9519 chunks (59.02%), ETA: 0:00:28, Rate: 233.1 cps, Current: 97, -109
-[19:58:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9540 chunks (59.15%), ETA: 0:00:28, Rate: 231.6 cps, Current: 98, -111
-[19:58:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9569 chunks (59.33%), ETA: 0:00:28, Rate: 230.4 cps, Current: 99, -128
-[19:58:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9652 chunks (59.84%), ETA: 0:00:27, Rate: 232.4 cps, Current: 99, -97
-[19:58:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9663 chunks (59.91%), ETA: 0:00:28, Rate: 228.9 cps, Current: 96, -129
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-57, y=-58, z=1076}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-55, y=-58, z=1076}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-57, y=-58, z=1079}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-57, y=-58, z=1077}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-57, y=-58, z=1080}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-55, y=-58, z=1080}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-55, y=-58, z=1080}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-53, y=-58, z=1080}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-53, y=-58, z=1079}
-[19:58:07] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-53, y=-58, z=1077}
-[19:58:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9670 chunks (59.95%), ETA: 0:00:28, Rate: 227.5 cps, Current: 65, -129
-[19:58:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9686 chunks (60.05%), ETA: 0:00:28, Rate: 227.7 cps, Current: 89, -129
-[19:58:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9694 chunks (60.10%), ETA: 0:00:28, Rate: 225.8 cps, Current: 81, -129
-[19:58:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9703 chunks (60.16%), ETA: 0:00:31, Rate: 202.2 cps, Current: -27, -129
-[19:58:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9718 chunks (60.25%), ETA: 0:00:31, Rate: 201.5 cps, Current: -16, -129
-[19:58:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9732 chunks (60.34%), ETA: 0:00:32, Rate: 198.1 cps, Current: -27, -128
-[19:58:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9752 chunks (60.46%), ETA: 0:00:35, Rate: 179.8 cps, Current: -26, -124
-[19:58:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:58:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:58:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:58:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9786 chunks (60.67%), ETA: 0:01:31, Rate: 69.6 cps, Current: -25, -126
-[19:58:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:58:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9820 chunks (60.88%), ETA: 0:03:12, Rate: 32.8 cps, Current: -24, -125
-[19:58:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:58:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:58:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9856 chunks (61.11%), ETA: 0:05:50, Rate: 17.9 cps, Current: -23, -122
-[19:58:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9888 chunks (61.31%), ETA: 0:05:29, Rate: 19.0 cps, Current: -22, -123
-[19:58:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9917 chunks (61.49%), ETA: 0:05:22, Rate: 19.3 cps, Current: -21, -127
-[19:58:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9941 chunks (61.63%), ETA: 0:05:24, Rate: 19.0 cps, Current: -21, -107
-[19:58:24] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 9974 chunks (61.84%), ETA: 0:05:23, Rate: 19.0 cps, Current: -20, -105
-[19:58:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10007 chunks (62.04%), ETA: 0:05:16, Rate: 19.3 cps, Current: -19, -101
-[19:58:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10044 chunks (62.27%), ETA: 0:05:07, Rate: 19.8 cps, Current: -17, -128
-[19:58:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10077 chunks (62.48%), ETA: 0:04:56, Rate: 20.4 cps, Current: -16, -127
-[19:58:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10112 chunks (62.69%), ETA: 0:04:49, Rate: 20.8 cps, Current: -15, -124
-[19:58:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10150 chunks (62.93%), ETA: 0:04:42, Rate: 21.2 cps, Current: -14, -118
-[19:58:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10192 chunks (63.19%), ETA: 0:04:31, Rate: 21.8 cps, Current: -13, -112
-[19:58:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10229 chunks (63.42%), ETA: 0:04:24, Rate: 22.3 cps, Current: -12, -107
-[19:58:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:58:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:58:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:58:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:58:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10268 chunks (63.66%), ETA: 0:04:41, Rate: 20.9 cps, Current: -10, -128
-[19:58:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:58:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:58:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10303 chunks (63.88%), ETA: 0:04:00, Rate: 24.2 cps, Current: -8, -128
-[19:58:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10334 chunks (64.07%), ETA: 0:03:57, Rate: 24.4 cps, Current: -9, -113
-[19:58:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10386 chunks (64.39%), ETA: 0:03:46, Rate: 25.4 cps, Current: -7, -118
-[19:58:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10614 chunks (65.81%), ETA: 0:02:51, Rate: 32.2 cps, Current: -3, -106
-[19:58:38] [IOWorker-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 10853 chunks (67.29%), ETA: 0:02:11, Rate: 40.1 cps, Current: -19, -81
-[19:58:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 11456 chunks (71.03%), ETA: 0:01:13, Rate: 63.6 cps, Current: -27, -64
-[19:58:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 11458 chunks (71.04%), ETA: 0:01:18, Rate: 59.4 cps, Current: -27, -62
-[19:58:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 11585 chunks (71.83%), ETA: 0:01:09, Rate: 65.3 cps, Current: -23, -51
-[19:58:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 12295 chunks (76.23%), ETA: 0:00:44, Rate: 86.8 cps, Current: -27, -45
-[19:58:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 12299 chunks (76.25%), ETA: 0:00:43, Rate: 88.0 cps, Current: -27, -41
-[19:58:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 12328 chunks (76.43%), ETA: 0:00:42, Rate: 88.4 cps, Current: -26, -56
-[19:58:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 12378 chunks (76.74%), ETA: 0:00:42, Rate: 89.1 cps, Current: -26, -9
-[19:58:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 12450 chunks (77.19%), ETA: 0:00:40, Rate: 90.4 cps, Current: -23, -7
-[19:58:49] [IOWorker-1/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14320 chunks (88.78%), ETA: 0:00:11, Rate: 153.2 cps, Current: 40, -13
-[19:58:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14454 chunks (89.61%), ETA: 0:00:10, Rate: 156.9 cps, Current: 39, -4
-[19:58:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14490 chunks (89.84%), ETA: 0:00:10, Rate: 156.4 cps, Current: 44, -6
-[19:58:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14543 chunks (90.17%), ETA: 0:00:10, Rate: 157.3 cps, Current: 46, -4
-[19:58:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14596 chunks (90.50%), ETA: 0:00:09, Rate: 157.6 cps, Current: 48, -8
-[19:58:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14632 chunks (90.72%), ETA: 0:00:09, Rate: 157.7 cps, Current: 50, -16
-[19:58:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14666 chunks (90.93%), ETA: 0:00:09, Rate: 157.5 cps, Current: 51, -12
-[19:58:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14692 chunks (91.09%), ETA: 0:00:09, Rate: 155.7 cps, Current: 52, -20
-[19:58:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14738 chunks (91.38%), ETA: 0:00:08, Rate: 156.1 cps, Current: 53, -15
-[19:58:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14769 chunks (91.57%), ETA: 0:00:08, Rate: 156.1 cps, Current: 54, -10
-[19:59:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14798 chunks (91.75%), ETA: 0:00:08, Rate: 155.4 cps, Current: 55, -10
-[19:59:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14829 chunks (91.94%), ETA: 0:00:08, Rate: 155.0 cps, Current: 56, -8
-[19:59:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14857 chunks (92.11%), ETA: 0:00:08, Rate: 154.4 cps, Current: 57, -9
-[19:59:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14885 chunks (92.29%), ETA: 0:00:08, Rate: 153.6 cps, Current: 58, -10
-[19:59:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14915 chunks (92.47%), ETA: 0:00:07, Rate: 153.3 cps, Current: 59, -9
-[19:59:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14938 chunks (92.62%), ETA: 0:00:07, Rate: 152.3 cps, Current: 60, -13
-[19:59:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14966 chunks (92.79%), ETA: 0:00:07, Rate: 145.6 cps, Current: 61, -14
-[19:59:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 14994 chunks (92.96%), ETA: 0:00:08, Rate: 141.7 cps, Current: 62, -16
-[19:59:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15025 chunks (93.16%), ETA: 0:00:09, Rate: 122.7 cps, Current: 63, -15
-[19:59:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15054 chunks (93.33%), ETA: 0:00:08, Rate: 127.5 cps, Current: 64, -16
-[19:59:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15084 chunks (93.52%), ETA: 0:00:08, Rate: 123.8 cps, Current: 65, -15
-[19:59:12] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15113 chunks (93.70%), ETA: 0:00:08, Rate: 120.3 cps, Current: 66, -17
-[19:59:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15142 chunks (93.88%), ETA: 0:00:10, Rate: 96.9 cps, Current: 67, -17
-[19:59:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15169 chunks (94.05%), ETA: 0:00:09, Rate: 99.4 cps, Current: 68, -20
-[19:59:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15196 chunks (94.22%), ETA: 0:00:09, Rate: 96.9 cps, Current: 69, -23
-[19:59:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15222 chunks (94.38%), ETA: 0:00:09, Rate: 96.7 cps, Current: 70, -27
-[19:59:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15249 chunks (94.54%), ETA: 0:00:09, Rate: 96.0 cps, Current: 70, -4
-[19:59:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:59:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:59:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:59:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:59:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15275 chunks (94.71%), ETA: 0:00:25, Rate: 33.0 cps, Current: 71, -8
-[19:59:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:59:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:59:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15300 chunks (94.86%), ETA: 0:00:25, Rate: 32.7 cps, Current: 72, -9
-[19:59:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15325 chunks (95.02%), ETA: 0:00:27, Rate: 29.1 cps, Current: 73, -14
-[19:59:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15349 chunks (95.16%), ETA: 0:00:27, Rate: 28.8 cps, Current: 74, -21
-[19:59:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15370 chunks (95.29%), ETA: 0:00:27, Rate: 27.7 cps, Current: 75, -29
-[19:59:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15393 chunks (95.44%), ETA: 0:00:27, Rate: 26.8 cps, Current: 75, -8
-[19:59:24] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15416 chunks (95.58%), ETA: 0:00:27, Rate: 26.2 cps, Current: 76, -14
-[19:59:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15438 chunks (95.72%), ETA: 0:00:26, Rate: 25.9 cps, Current: 77, -22
-[19:59:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15464 chunks (95.88%), ETA: 0:00:25, Rate: 26.1 cps, Current: 78, -26
-[19:59:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15489 chunks (96.03%), ETA: 0:00:25, Rate: 25.3 cps, Current: 79, -30
-[19:59:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15513 chunks (96.18%), ETA: 0:00:24, Rate: 25.1 cps, Current: 79, -7
-[19:59:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15539 chunks (96.34%), ETA: 0:00:23, Rate: 25.0 cps, Current: 80, -11
-[19:59:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15563 chunks (96.49%), ETA: 0:00:22, Rate: 24.8 cps, Current: 81, -17
-[19:59:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15586 chunks (96.63%), ETA: 0:00:22, Rate: 24.7 cps, Current: 82, -24
-[19:59:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15610 chunks (96.78%), ETA: 0:00:21, Rate: 24.6 cps, Current: 83, -30
-[19:59:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
-[19:59:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
-[19:59:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
-[19:59:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:59:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15638 chunks (96.96%), ETA: 0:00:19, Rate: 24.6 cps, Current: 84, -31
-[19:59:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
-[19:59:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
-[19:59:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15663 chunks (97.11%), ETA: 0:00:18, Rate: 24.6 cps, Current: 84, -7
-[19:59:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15688 chunks (97.27%), ETA: 0:00:18, Rate: 24.5 cps, Current: 85, -12
-[19:59:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15714 chunks (97.43%), ETA: 0:00:16, Rate: 24.4 cps, Current: 86, -15
-[19:59:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15739 chunks (97.58%), ETA: 0:00:16, Rate: 24.3 cps, Current: 87, -21
-[19:59:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15766 chunks (97.75%), ETA: 0:00:14, Rate: 24.2 cps, Current: 88, -24
-[19:59:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15789 chunks (97.89%), ETA: 0:00:14, Rate: 24.1 cps, Current: 89, -30
-[19:59:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15817 chunks (98.07%), ETA: 0:00:12, Rate: 24.0 cps, Current: 90, -31
-[19:59:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15842 chunks (98.22%), ETA: 0:00:12, Rate: 23.9 cps, Current: 90, -8
-[19:59:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15869 chunks (98.39%), ETA: 0:00:10, Rate: 23.9 cps, Current: 91, -11
-[19:59:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15896 chunks (98.56%), ETA: 0:00:09, Rate: 23.9 cps, Current: 92, -14
-[19:59:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15921 chunks (98.71%), ETA: 0:00:08, Rate: 23.9 cps, Current: 93, -19
-[19:59:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15949 chunks (98.88%), ETA: 0:00:07, Rate: 23.8 cps, Current: 94, -21
-[19:59:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15968 chunks (99.00%), ETA: 0:00:06, Rate: 23.7 cps, Current: 94, -6
-[19:59:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 15996 chunks (99.18%), ETA: 0:00:05, Rate: 23.7 cps, Current: 95, -7
-[19:59:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 16024 chunks (99.35%), ETA: 0:00:04, Rate: 23.8 cps, Current: 96, -9
-[19:59:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 16054 chunks (99.53%), ETA: 0:00:03, Rate: 24.0 cps, Current: 97, -8
-[19:59:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 16079 chunks (99.69%), ETA: 0:00:02, Rate: 24.2 cps, Current: 98, -11
-[19:59:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 16098 chunks (99.81%), ETA: 0:00:01, Rate: 24.0 cps, Current: 95, -3
-[19:59:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 16121 chunks (99.95%), ETA: 0:00:00, Rate: 24.1 cps, Current: 99, -8
-[19:59:54] [Server thread/INFO]: [Chunky] Task finished for minecraft:overworld. Processed: 16129 chunks (100.00%), Total time: 0:03:22
+[20:37:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/svr-MX2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:37:57] [main/INFO]: Compatibility level set to JAVA_17
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[20:37:57] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[20:37:57] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[20:37:57] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[20:37:57] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[20:37:57] [main/WARN]: Reference map 'CerbonsAPI-Fabric-1.20.1-fabric-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:37:59] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[20:37:59] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
+[20:37:59] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[20:37:59] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[20:37:59] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[20:37:59] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[20:37:59] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[20:37:59] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[20:38:00] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:38:12] [main/INFO]: Apoli 2.9.0 has initialized. Ready to power up your game!
+[20:38:12] [main/INFO]: Reflections took 62 ms to scan 1 urls, producing 1 keys and 3 values
+[20:38:12] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[20:38:12] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:12] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:12] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[20:38:12] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[20:38:12] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:12] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:12] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:12] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:12] [main/INFO]: BountyHunt is initializing!
+[20:38:12] [main/INFO]: Loaded config file.
+[20:38:12] [main/INFO]: Files up to date
+[20:38:12] [main/INFO]: Loaded BountyHunt files.
+[20:38:12] [main/INFO]: Registered commands.
+[20:38:12] [main/INFO]: BountyHunt has been initialized!
+[20:38:12] [main/INFO]: Loading Collective version 7.87.
+[20:38:13] [main/INFO]: Creating default config file: croptopia_v3.conf
+[20:38:13] [Cicada thread 0/INFO]: [do_a_barrel_roll] Why play a flight sim when you have modded Minecraft?
+[20:38:13] [main/INFO]: Constructing common components for easyanvils:main
+[20:38:13] [main/INFO]: Constructing common components for easymagic:main
+[20:38:14] [main/INFO]: Mob Origins version 1.11.1 is loaded!
+[20:38:14] [main/INFO]: mystic's biomes ~ registering biomes
+[20:38:14] [main/INFO]: mystic's biomes ~ registering blocks
+[20:38:14] [main/ERROR]: No data fixer registered for butterfly_nest
+[20:38:14] [main/INFO]: mystic's biomes ~ registering block entities
+[20:38:14] [main/ERROR]: No data fixer registered for strawberry_cow
+[20:38:14] [main/ERROR]: No data fixer registered for vanilla_cow
+[20:38:14] [main/ERROR]: No data fixer registered for chocolate_cow
+[20:38:14] [main/ERROR]: No data fixer registered for rainbow_chicken
+[20:38:14] [main/ERROR]: No data fixer registered for red_panda
+[20:38:14] [main/ERROR]: No data fixer registered for sea_otter
+[20:38:14] [main/ERROR]: No data fixer registered for butterfly
+[20:38:14] [main/ERROR]: No data fixer registered for rainbow_egg
+[20:38:14] [main/INFO]: mystic's biomes ~ registering animals & critters
+[20:38:14] [main/INFO]: mystic's biomes ~ registering items
+[20:38:14] [main/INFO]: mystic's biomes ~ registering features
+[20:38:14] [main/INFO]: mystic's biomes ~ registering configured features
+[20:38:14] [main/INFO]: mystic's biomes ~ registering placed features
+[20:38:14] [main/INFO]: mystic's biomes ~ registering poi types
+[20:38:14] [main/INFO]: mystic's biomes ~ registering sounds
+[20:38:14] [main/INFO]: mystic's biomes ~ registering creative tab
+[20:38:14] [main/INFO]: Origins 1.10.0 is initializing. Have fun!
+[20:38:14] [main/INFO]: Constructing common components for puzzleslib:main
+[20:38:14] [main/INFO]: Loaded config supplementaries-common.json
+[20:38:15] [main/INFO]: [Surveyor] is not a map mod
+[20:38:15] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20:38:15] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[20:38:15] [main/INFO]: Registered region mysticsbiomes:overworld_provider to index 1 for type OVERWORLD
+[20:38:15] [main/ERROR]: No data fixer registered for 
+[20:38:15] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[20:38:15] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[20:38:15] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[20:38:15] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[20:38:15] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[20:38:15] [main/INFO]: [voicechat] Compatibility version 18
+[20:38:15] [main/INFO]: [voicechat] Loading plugins
+[20:38:15] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[20:38:15] [main/INFO]: [voicechat] Initializing plugins
+[20:38:15] [main/INFO]: Initializing Simple Voice Chat integration
+[20:38:15] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[20:38:15] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[20:38:15] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[20:38:15] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[20:38:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:38:16] [main/INFO]: Initialized block sets in 15ms
+[20:38:16] [main/ERROR]: No data fixer registered for dispenser_minecart
+[20:38:16] [main/ERROR]: No data fixer registered for falling_urn
+[20:38:16] [main/ERROR]: No data fixer registered for falling_ash
+[20:38:16] [main/ERROR]: No data fixer registered for falling_sack
+[20:38:16] [main/ERROR]: No data fixer registered for brick_projectile
+[20:38:16] [main/ERROR]: No data fixer registered for slimeball_projectile
+[20:38:16] [main/ERROR]: No data fixer registered for bomb
+[20:38:16] [main/ERROR]: No data fixer registered for cannonball
+[20:38:16] [main/ERROR]: No data fixer registered for rope_arrow
+[20:38:16] [main/ERROR]: No data fixer registered for slingshot_projectile
+[20:38:16] [main/INFO]: Loaded config smarterfarmers-common.json
+[20:38:16] [main/INFO]: Initialized color sets in 49ms
+[20:38:16] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 0, 18, 5, 0] ms
+[20:38:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:38:16] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 72 ms
+[20:38:17] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:38:18] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[20:38:19] [main/INFO]: Loaded 7 recipes
+[20:38:19] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[20:38:19] [main/INFO]: Loaded 2121 advancements
+[20:38:19] [main/INFO]: Finished loading powers from data files. Registry contains 256 powers.
+[20:38:19] [main/INFO]: Finished loading origins from data files. Registry contains 40 origins.
+[20:38:19] [main/INFO]: Trying to read layer file: origins-classes:class
+[20:38:19] [main/INFO]: Trying to read layer file: origins:origin
+[20:38:19] [main/INFO]: Trying to read layer file: origins:origin
+[20:38:19] [main/INFO]: Trying to read layer file: origins:origin
+[20:38:19] [main/INFO]: Finished loading origin layers from data files. Read 2 layers.
+[20:38:19] [main/INFO]: Loaded 27 flute songs
+[20:38:19] [main/INFO]: Loaded 0 global power sets.
+[20:38:20] [main/INFO]: Applied 7 data villager trades
+[20:38:20] [main/INFO]: Finished additional setup in 0 ms
+[20:38:20] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20:38:20] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20:38:21] [main/INFO]: Applied 438 biome modifications to 72 of 72 new biomes in 23.44 ms
+[20:38:21] [Server thread/INFO]: Loading server config for easyanvils
+[20:38:21] [Server thread/INFO]: Loading server config for easymagic
+[20:38:21] [Thread-5/INFO]: Reloading server config for easyanvils
+[20:38:21] [Thread-5/INFO]: Reloading server config for easyanvils
+[20:38:21] [Thread-5/INFO]: Reloading server config for easymagic
+[20:38:21] [Thread-5/INFO]: Reloading server config for easymagic
+[20:38:21] [Server thread/INFO]: Starting background profiler...
+[20:38:22] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:38:22] [Server thread/INFO]: Loading properties
+[20:38:22] [Server thread/INFO]: Default game type: SURVIVAL
+[20:38:22] [Server thread/INFO]: Generating keypair
+[20:38:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:38:22] [Server thread/INFO]: Using epoll channel type
+[20:38:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:38:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:38:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:38:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:38:22] [Server thread/INFO]: Preparing level "world"
+[20:38:22] [Server thread/INFO]: Enforcing safe world random access
+[20:38:22] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
+[20:38:23] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
+[20:38:24] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
+[20:38:24] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
+[20:38:27] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
+[20:38:28] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
+[20:38:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:38:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:38:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:38:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:38:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:38:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:38:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:38:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:38:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[20:38:32] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[20:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[20:38:33] [Worker-Main-3/INFO]: Preparing spawn area: 11%
+[20:38:34] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[20:38:34] [Worker-Main-2/INFO]: Preparing spawn area: 29%
+[20:38:35] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[20:38:35] [Worker-Main-3/INFO]: Preparing spawn area: 73%
+[20:38:36] [Server thread/INFO]: Time elapsed: 8703 ms
+[20:38:36] [Server thread/INFO]: Done (14.305s)! For help, type "help"
+[20:38:37] [Server thread/INFO]: Start loading plugin from Jade
+[20:38:37] [Server thread/INFO]: Start loading plugin from Jade
+[20:38:37] [Server thread/INFO]: Start loading plugin from Jade
+[20:38:37] [Server thread/INFO]: Start loading plugin from Supplementaries
+[20:38:37] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_faucet_test_level
+[20:38:37] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_faucet_test_level
+[20:38:47] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:38:47] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'brand-advised.gl.at.ply.gg'
+[20:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10713ms or 214 ticks behind
+[20:38:47] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1217
+[20:39:14] [Server thread/INFO]: PapiRicoJoker[/127.93.242.45:49477] logged in with entity id 66 at (595.3000000119209, 126.0, -1034.5918574512311)
+[20:39:15] [Server thread/INFO]: Syncing config to PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd)
+[20:39:15] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_projectile_test_level
+[20:39:15] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_projectile_test_level
+[20:39:19] [Server thread/INFO]: Loading config from file...
+[20:39:20] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[20:39:20] [Server thread/INFO]: PapiRicoJoker joined the game
+[20:39:20] [Server thread/INFO]: [voicechat] Received secret request of PapiRicoJoker (18)
+[20:39:20] [Server thread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5185ms or 103 ticks behind
+[20:39:20] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of PapiRicoJoker accepted server config.
+[20:39:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:39:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:39:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:39:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:39:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:39:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:39:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:39:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:39:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:39:55] [Server thread/INFO]: Rafiux_Z[/127.53.138.56:42957] logged in with entity id 361 at (603.3452014567171, 109.0, -1028.8784996935833)
+[20:39:55] [Server thread/INFO]: Syncing config to Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4)
+[20:39:55] [Server thread/INFO]: Loading config from file...
+[20:39:55] [Server thread/INFO]: Rafiux_Z joined the game
+[20:39:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Rafiux_Z accepted server config.
+[20:39:57] [Server thread/INFO]: [voicechat] Received secret request of Rafiux_Z (18)
+[20:39:57] [Server thread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:39:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:39:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:39:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:39:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:39:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:39:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:40:00] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> hola bb
+[20:40:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:40:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:40:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:40:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:40:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:40:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:40:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:40:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:40:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:40:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:40:44] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> simon
+[20:40:53] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> sip
+[20:40:57] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> no se
+[20:41:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:41:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:41:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:41:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:41:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:41:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:41:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:41:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:41:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:41:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:41:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:41:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:41:12] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> no se
+[20:41:19] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> ahi esta desde ayer
+[20:41:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:41:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:41:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:41:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:41:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:41:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:41:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:41:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:41:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:41:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:41:37] [Server thread/INFO]: [PapiRicoJoker: Set own game mode to Creative Mode]
+[20:41:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:41:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:41:46] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> no
+[20:41:52] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> no explota
+[20:41:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:41:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:41:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:41:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:42:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:42:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:42:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:42:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:42:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:42:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:42:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:42:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:42:08] [Server thread/INFO]: loivex[/127.143.76.9:52945] logged in with entity id 766 at (578.0297944089232, 122.0, -1034.63660896452)
+[20:42:08] [Server thread/INFO]: Syncing config to loivex (2828ddef-f9c4-383e-bd8f-e776ae272566)
+[20:42:08] [Server thread/INFO]: Loading config from file...
+[20:42:08] [Server thread/INFO]: loivex joined the game
+[20:42:10] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of loivex accepted server config.
+[20:42:11] [Server thread/INFO]: [voicechat] Received secret request of loivex (18)
+[20:42:11] [Server thread/INFO]: [voicechat] Sent secret to loivex
+[20:42:17] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> q pasooo
+[20:42:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:42:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:42:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:42:21] [Server thread/INFO]: [PapiRicoJoker: Set own game mode to Survival Mode]
+[20:42:23] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> NMS
+[20:42:29] [Server thread/INFO]: [Not Secure] <Rafiux_Z> sis
+[20:42:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:42:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:42:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:42:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:42:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:42:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:42:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:42:37] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> voy pa la casa
+[20:42:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:42:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:42:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:42:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:42:52] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> nms
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:43:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:43:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:43:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:43:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:43:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:43:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:43:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:43:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:43:25] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> xd tienes frio
+[20:43:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:43:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:43:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:43:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:43:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:43:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:43:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:43:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:43:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:44:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:44:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:44:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:44:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:44:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:44:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:44:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:44:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:44:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:44:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:44:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:44:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:44:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:44:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:44:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:44:52] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> a
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:45:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:45:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:45:07] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> mi hamburguesa we
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:45:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:45:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:45:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:45:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:45:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:45:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:45:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:45:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:45:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:45:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:45:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:46:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:46:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:46:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:46:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:46:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:46:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:46:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:46:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:46:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:46:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:46:18] [Server thread/INFO]: [Not Secure] <Rafiux_Z> a donde van
+[20:46:27] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> no se
+[20:46:29] [Server thread/INFO]: [Not Secure] <Rafiux_Z> xd
+[20:46:32] [Server thread/INFO]: [Not Secure] <PapiRicoJoker> xd
+[20:46:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:46:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:46:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:46:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:46:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:46:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:46:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:46:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:46:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:46:40] [Server thread/INFO]: loivex has made the advancement [Best Friends Forever]
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2828ddef-f9c4-383e-bd8f-e776ae272566 timed out
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player loivex
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to loivex
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:47:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:47:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:47:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:47:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:47:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat
+[20:47:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2828ddef-f9c4-383e-bd8f-e776ae272566
+[20:47:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player loivex (2828ddef-f9c4-383e-bd8f-e776ae272566) successfully connected to voice chat
+[20:47:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 620ef36f-85d5-3875-aa16-bc45e684a9bd timed out
+[20:47:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PapiRicoJoker
+[20:47:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PapiRicoJoker
+[20:47:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4 timed out
+[20:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Rafiux_Z
+[20:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Rafiux_Z
+[20:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 620ef36f-85d5-3875-aa16-bc45e684a9bd
+[20:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PapiRicoJoker (620ef36f-85d5-3875-aa16-bc45e684a9bd) successfully connected to voice chat
+[20:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:47:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4
+[20:47:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rafiux_Z (1df8e637-a9a1-3e4a-a6d3-67a8c3cc28f4) successfully connected to voice chat

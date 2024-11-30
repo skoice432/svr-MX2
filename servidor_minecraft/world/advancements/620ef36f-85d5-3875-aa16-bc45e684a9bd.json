@@ -3021,5 +3021,11 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "hamburger": "2024-11-30 20:43:32 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
