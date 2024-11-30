@@ -1273,7 +1273,8 @@
       "cooked_beef": "2024-11-29 01:13:35 +0000",
       "baked_potato": "2024-11-29 02:45:36 +0000",
       "apple": "2024-11-29 00:39:04 +0000",
-      "bread": "2024-11-29 01:04:50 +0000"
+      "bread": "2024-11-29 01:04:50 +0000",
+      "suspicious_stew": "2024-11-30 22:37:54 +0000"
     },
     "done": false
   },
@@ -3894,6 +3895,42 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-11-30 21:41:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2024-11-30 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2024-11-30 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-11-30 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-11-30 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:mortar_and_pestle": {
+    "criteria": {
+      "mortar_and_pestle": "2024-11-30 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_mortar_and_pestle": "2024-11-30 22:38:02 +0000"
     },
     "done": true
   },
