@@ -1273,6 +1273,7 @@
       "cooked_beef": "2024-11-29 01:13:35 +0000",
       "baked_potato": "2024-11-29 02:45:36 +0000",
       "apple": "2024-11-29 00:39:04 +0000",
+      "pumpkin_pie": "2024-11-30 22:58:12 +0000",
       "bread": "2024-11-29 01:04:50 +0000",
       "suspicious_stew": "2024-11-30 22:37:54 +0000"
     },
@@ -3913,6 +3914,12 @@
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2024-11-30 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2024-11-30 22:50:19 +0000"
     },
     "done": true
   },
