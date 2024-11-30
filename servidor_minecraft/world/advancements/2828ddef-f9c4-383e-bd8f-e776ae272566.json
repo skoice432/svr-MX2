@@ -3899,6 +3899,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-11-30 22:34:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
       "stew": "2024-11-30 22:37:54 +0000"
@@ -3908,18 +3914,6 @@
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2024-11-30 22:37:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2024-11-30 22:34:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2024-11-30 22:50:19 +0000"
     },
     "done": true
   },
@@ -3938,6 +3932,18 @@
   "croptopia:recipes/paprika": {
     "criteria": {
       "has_mortar_and_pestle": "2024-11-30 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2024-11-30 22:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-30 23:12:18 +0000"
     },
     "done": true
   },
