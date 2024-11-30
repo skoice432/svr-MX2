@@ -2757,6 +2757,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 21:24:15 +0000"
@@ -2781,6 +2793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pizza": {
     "criteria": {
       "has_frying_pan": "2024-11-30 21:28:19 +0000"
@@ -2790,6 +2808,12 @@
   "croptopia:recipes/misc/sweet_crepes": {
     "criteria": {
       "has_frying_pan": "2024-11-30 21:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
     },
     "done": true
   },
@@ -2808,6 +2832,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
     },
     "done": true
   },
@@ -2853,9 +2883,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/hashed_brown": {
     "criteria": {
       "has_frying_pan": "2024-11-30 21:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
     },
     "done": true
   },
@@ -2895,6 +2949,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/croque_madame": {
     "criteria": {
       "has_frying_pan": "2024-11-30 21:28:19 +0000"
@@ -2925,6 +2997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-11-30 21:45:52 +0000"
@@ -2949,6 +3027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 21:24:15 +0000"
@@ -2958,6 +3042,12 @@
   "croptopia:recipes/misc/quiche": {
     "criteria": {
       "has_frying_pan": "2024-11-30 21:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
     },
     "done": true
   },
@@ -2985,6 +3075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2024-11-30 21:19:14 +0000"
@@ -2997,9 +3093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-30 21:58:44 +0000"
     },
     "done": true
   },
