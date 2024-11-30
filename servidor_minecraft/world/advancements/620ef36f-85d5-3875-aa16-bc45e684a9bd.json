@@ -3022,21 +3022,27 @@
     },
     "done": true
   },
-  "croptopia:frying_pan": {
+  "croptopia:gather_food": {
     "criteria": {
-      "frying_pan": "2024-11-30 21:30:16 +0000"
+      "hamburger": "2024-11-30 20:43:32 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/avocado_sapling": {
+    "criteria": {
+      "has_avocado": "2024-11-30 20:47:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "croptopia:recipes/shaped_avocado_toast": {
     "criteria": {
-      "has_emerald_block": "2024-11-30 21:05:51 +0000"
+      "has_avocado": "2024-11-30 20:47:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "croptopia:recipes/quesadilla": {
     "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
+      "has_avocado": "2024-11-30 20:47:08 +0000"
     },
     "done": true
   },
@@ -3046,39 +3052,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/shaped_fish_and_chips": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/fajitas": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/avocado_sapling": {
-    "criteria": {
-      "has_avocado": "2024-11-30 20:47:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-30 20:56:07 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/pizza": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/sweet_crepes": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
     },
     "done": true
   },
@@ -3088,63 +3064,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/sunny_side_eggs": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-30 20:56:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-11-30 21:42:28 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/hashed_brown": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/dauphine_potatoes": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-11-30 22:03:17 +0000"
     },
     "done": true
   },
@@ -3160,27 +3082,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/shaped_beef_wellington": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-30 20:56:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
     },
     "done": true
   },
@@ -3190,21 +3094,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/croque_madame": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-30 20:56:07 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/baked_crepes": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
     },
     "done": true
   },
@@ -3214,63 +3106,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/croque_monsieur": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_food": {
-    "criteria": {
-      "hamburger": "2024-11-30 20:43:32 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/quiche": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/the_big_breakfast": {
-    "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_avocado_toast": {
-    "criteria": {
-      "has_avocado": "2024-11-30 20:47:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-30 20:56:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/quesadilla": {
-    "criteria": {
-      "has_avocado": "2024-11-30 20:47:08 +0000"
     },
     "done": true
   },
@@ -3283,12 +3121,6 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-30 20:56:07 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
     },
     "done": true
   },
@@ -3310,21 +3142,183 @@
     },
     "done": true
   },
-  "croptopia:recipes/grilled_cheese": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+      "has_diamond": "2024-11-30 21:03:33 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "wheat": "2024-11-30 22:16:20 +0000"
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-11-30 21:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-11-30 21:05:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_fish_and_chips": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pizza": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweet_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sunny_side_eggs": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/hashed_brown": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dauphine_potatoes": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_wellington": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_madame": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/baked_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_monsieur": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/quiche": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/the_big_breakfast": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/grilled_cheese": {
+    "criteria": {
+      "has_frying_pan": "2024-11-30 21:30:16 +0000"
     },
     "done": true
   },
@@ -3340,15 +3334,21 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "diamond": "2024-11-30 21:03:33 +0000"
+      "diamond_leggings": "2024-11-30 21:42:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_diamond": "2024-11-30 21:03:33 +0000"
+      "has_dandelion": "2024-11-30 22:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-30 22:16:20 +0000"
     },
     "done": true
   },
