@@ -1505,6 +1505,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "hamburger": "2024-11-30 20:44:46 +0000",
       "glowing_calamari": "2024-11-29 01:08:43 +0000"
     },
     "done": false
@@ -2730,6 +2731,12 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-11-29 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-11-30 20:51:05 +0000"
     },
     "done": true
   },

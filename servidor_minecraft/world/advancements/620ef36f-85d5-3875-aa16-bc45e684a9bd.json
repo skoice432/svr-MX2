@@ -3021,11 +3021,29 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/avocado_sapling": {
+    "criteria": {
+      "has_avocado": "2024-11-30 20:47:08 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "hamburger": "2024-11-30 20:43:32 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/shaped_avocado_toast": {
+    "criteria": {
+      "has_avocado": "2024-11-30 20:47:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_avocado": "2024-11-30 20:47:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
