@@ -14,11 +14,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-29 00:41:44 +0000",
+      "minecraft:sunflower_plains": "2024-11-30 21:17:20 +0000",
       "minecraft:birch_forest": "2024-11-28 23:53:47 +0000",
       "minecraft:beach": "2024-11-29 00:01:18 +0000",
       "minecraft:river": "2024-11-29 00:00:37 +0000",
       "minecraft:forest": "2024-11-28 23:49:49 +0000",
+      "minecraft:flower_forest": "2024-11-30 21:18:41 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-29 00:00:42 +0000",
+      "minecraft:meadow": "2024-11-30 21:18:57 +0000",
       "minecraft:plains": "2024-11-29 00:45:51 +0000"
     },
     "done": false
@@ -521,7 +524,8 @@
       "bread": "2024-11-29 00:47:03 +0000",
       "rotten_flesh": "2024-11-29 01:21:25 +0000",
       "glow_berries": "2024-11-29 01:18:19 +0000",
-      "cooked_chicken": "2024-11-29 01:49:50 +0000"
+      "cooked_chicken": "2024-11-29 01:49:50 +0000",
+      "carrot": "2024-11-30 21:22:38 +0000"
     },
     "done": false
   },
@@ -1139,6 +1143,7 @@
       "minecraft:vindicator": "2024-11-29 02:43:50 +0000",
       "minecraft:spider": "2024-11-29 02:47:20 +0000",
       "minecraft:creeper": "2024-11-29 00:49:37 +0000",
+      "minecraft:enderman": "2024-11-30 21:17:40 +0000",
       "minecraft:zombie": "2024-11-29 00:23:10 +0000"
     },
     "done": false
@@ -2734,9 +2739,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-11-30 21:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-11-30 20:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-30 21:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-11-30 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:21:37 +0000"
     },
     "done": true
   },
@@ -2746,9 +2775,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-11-30 21:17:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2024-11-30 21:19:14 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2024-11-30 20:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-11-30 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:21:37 +0000"
     },
     "done": true
   },

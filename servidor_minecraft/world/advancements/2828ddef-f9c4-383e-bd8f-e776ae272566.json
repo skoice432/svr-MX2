@@ -860,7 +860,8 @@
       "minecraft:vindicator": "2024-11-29 02:43:33 +0000",
       "minecraft:spider": "2024-11-30 21:11:05 +0000",
       "minecraft:piglin": "2024-11-29 00:12:51 +0000",
-      "minecraft:zombie": "2024-11-29 02:00:20 +0000"
+      "minecraft:zombie": "2024-11-29 02:00:20 +0000",
+      "minecraft:drowned": "2024-11-30 21:15:28 +0000"
     },
     "done": false
   },
@@ -3494,6 +3495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-11-30 20:58:46 +0000"
@@ -3536,6 +3543,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-11-30 21:01:49 +0000"
@@ -3554,6 +3573,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-11-30 21:01:49 +0000"
@@ -3563,6 +3588,24 @@
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_the_recipe": "2024-11-30 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 21:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
     },
     "done": true
   },
@@ -3584,9 +3627,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-11-30 21:21:37 +0000"
     },
     "done": true
   },
@@ -3596,9 +3651,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2024-11-30 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
     },
     "done": true
   },
@@ -3635,6 +3702,12 @@
   "croptopia:recipes/food/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2024-11-30 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 21:16:12 +0000"
     },
     "done": true
   },
@@ -3680,6 +3753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2024-11-30 21:08:55 +0000"
@@ -3713,6 +3792,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-11-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 21:16:19 +0000"
     },
     "done": true
   },
